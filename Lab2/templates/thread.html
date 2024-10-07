@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block main %}
+<h1>{{ thread["title"] }}</h1>
+<p>{{ thread["body"] | safe }}</p>
+<p>By {{ thread["author"] }}</p>
+
+<div>
+  {% for message in replies %}
+  <p>
+    <hr/>
+    <h3>{{ message["author"] }}</h3>
+    <i class="reply_message">{{ message["body"] }}</i>
+  </p>
+  {% endfor %}
+</div>
+
+<form action="/reply" method="post">
+  <input type="hidden" name="thread_id" value="{{ thread["thread_id"] }}">
+  <input type="text" name="message" placeholder="Comment" style="width: 100%">
+  <input type="submit" value="Add comment">
+</form>
+{% endblock %}

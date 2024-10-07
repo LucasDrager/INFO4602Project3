@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block main %}
+<form action="/", method="GET">
+    <input name="search" type="search" placeholder="Search" value="{{ search }}">
+</form>
+{% if search %}
+<p>
+    <span>Found {{ total_threads }} threads(s) containing "{{ search | safe }}"</span>
+</p>
+{% endif %}
+
+{% for thread in threads %}
+<article>
+    <a href="/thread/{{ thread["thread_id"] }}">
+        <h2>{{ thread["title"] }}</h2>
+    </a>
+    <subtitle>By {{ thread["author"] }}</subtitle>
+</article>
+{% endfor %}
+
+<!-- This displays the page counter at the bottom of the screen -->
+<p>
+{% if page > 1 %}
+<a href="/?search={{ search }}&page={{ page - 1 }}">&lt; Previous</a>
+{% endif %}
+{% if max_page > 1 %}
+{% for i in range([1, page - 5]|max, 1+[max_page, page + 5]|min) %}
+    {% if page == i %}
+    {{ i }}
+    {% else %}
+    <a href="/?search={{ search }}&page={{ i }}">{{ i }}</a>
+    {% endif %}
+{% endfor %}
+{% endif %}
+{% if page < max_page %}
+<a href="/?search={{ search }}&page={{ page + 1 }}">Next &gt;</a>
+{% endif %}
+</p>
+
+<p>
+    <a href="/create_thread"><button>Create New Thread</button></a>
+</p>
+{% endblock %}
