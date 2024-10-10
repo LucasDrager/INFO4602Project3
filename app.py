@@ -1,36 +1,47 @@
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template
 import altair as alt
 import pandas as pd
 
 app = Flask(__name__)
 
-# Route for the home page
 @app.route('/')
-def home():
-    return render_template('home.html')
-
-# Route to serve Altair chart as JSON
-@app.route('/bar-chart')
-def bar_chart():
-    # Sample data
+def index():
+    # Bar Chart Example
     data = pd.DataFrame({
-        'category': ['A', 'B', 'C', 'D', 'E'],
-        'values': [5, 3, 6, 7, 2]
+        'Category': ['A', 'B', 'C', 'D'],
+        'Value': [4, 7, 2, 5]
     })
+    bar_chart = alt.Chart(data).mark_bar().encode(
+        x='Category',
+        y='Value'
+    ).to_json()
 
-    # Altair bar chart
-    chart = alt.Chart(data).mark_bar().encode(
-        x='category',
-        y='values'
-    )
+    # Line Chart Example
+    data_line = pd.DataFrame({
+        'x': range(10),
+        'y': [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
+    })
+    line_chart = alt.Chart(data_line).mark_line().encode(
+        x='x',
+        y='y'
+    ).to_json()
 
-    # Return the chart as a Vega-Lite JSON
-    return chart.to_json()
+    # Scatter Plot Example
+    data_scatter = pd.DataFrame({
+        'x': [1, 2, 3, 4, 5],
+        'y': [3, 5, 4, 6, 7],
+        'Category': ['A', 'B', 'A', 'B', 'A']
+    })
+    scatter_plot = alt.Chart(data_scatter).mark_point().encode(
+        x='x',
+        y='y',
+        color='Category'
+    ).to_json()
 
-# Route for the graph page
-@app.route('/graph')
-def graph():
-    return render_template('graph.html')
+    return render_template('index.html', 
+                           bar_chart=bar_chart, 
+                           line_chart=line_chart, 
+                           scatter_plot=scatter_plot)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000)

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask Altair Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+    <header>
+        <h1>Data Visualization Dashboard</h1>
+    </header>
+
+    <div class="container">
+        <!-- First Chart -->
+        <div class="chart-container">
+            <div class="chart-title">Chart 1: Bar Chart Example</div>
+            <div id="bar-chart" class="chart"></div>
+        </div>
+
+        <!-- Second Chart -->
+        <div class="chart-container">
+            <div class="chart-title">Chart 2: Line Chart Example</div>
+            <div id="line-chart" class="chart"></div>
+        </div>
+
+        <!-- Third Chart -->
+        <div class="chart-container">
+            <div class="chart-title">Chart 3: Scatter Plot Example</div>
+            <div id="scatter-plot" class="chart"></div>
+        </div>
+    </div>
+
+    <footer>
+        &copy; 2024 Data Dashboard
+    </footer>
+
+    <script type="text/javascript">
+        // Embed the first chart (bar chart)
+        vegaEmbed('#bar-chart', {{ bar_chart|safe }}).catch(console.error);
+
+        // Embed the second chart (line chart)
+        vegaEmbed('#line-chart', {{ line_chart|safe }}).catch(console.error);
+
+        // Embed the third chart (scatter plot)
+        vegaEmbed('#scatter-plot', {{ scatter_plot|safe }}).catch(console.error);
+    </script>
+</body>
+</html>
