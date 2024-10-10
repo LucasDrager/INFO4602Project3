@@ -43,5 +43,15 @@ def index():
                            line_chart=line_chart, 
                            scatter_plot=scatter_plot)
 
+# Route for the About page
+@app.route('/about')
+def about():
+    return render_template('about.html')
+
+# Route for the Contact page
+@app.route('/contact')
+def contact():
+    return render_template('contact.html')
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)

@@ -1,12 +1,20 @@
 /* General Styles */
-body {
+body, html {
+    height: 100%;
+    margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
+}
+
+/* Flexbox Wrapper to ensure footer stays at the bottom */
+.wrapper {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 .container {
+    flex: 1; /* This makes the container take up remaining space */
     max-width: 1200px;
     margin: 20px auto;
     padding: 20px;
@@ -26,6 +34,24 @@ header {
 h1 {
     margin: 0;
     font-size: 2.5rem;
+}
+
+/* Navigation Bar */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 /* Charts Section */
@@ -50,7 +76,5 @@ footer {
     padding: 10px 0;
     background-color: #333;
     color: white;
-    position: absolute;
-    width: 100%;
-    bottom: 0;
+    margin-top: auto;
 }
