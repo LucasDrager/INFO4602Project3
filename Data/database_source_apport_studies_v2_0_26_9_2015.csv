@@ -1,0 +1,773 @@
+Site Location, Population estimate * ,Country,ISO 3 code,Country Region,continent,Latitude,Longitude,Site typology,PM10 �gm-3 *,PM2.5 �gm-3 *,Methodology,Reference author,Reference year,Study year,Season,SEA SALT%,DUST%,TRAFFIC%,INDUSTRY%,BIOM. BURN./RES.%,OTHER (unspecified-human origin)%
+Cairo," 9,120,000 ",Egypt,EGY,Northern Africa,AF,30.06,31.25,urban,,51,PCA,Boman56,2012,2010/2011,year,,55.7,8.9,18.0,5.7,11.7
+Cairo," 9,120,000 ",Egypt,EGY,Northern Africa,AF,30.06,31.25,urban,,86,CMB,ESMAP report4,2011,1999/2002,year,2.0,7.0,22.0,13.0,30.0,26.0
+Cairo," 9,120,000 ",Egypt,EGY,Northern Africa,AF,30.06,31.25,urban,187,,CMB,ESMAP report4,2011,1999/2002,year,2.0,33.0,9.0,11.0,28.0,17.0
+Qalabotjha," 16,028 ",South Africa,ZAF,Southern Africa,AF,-27.02,28.62,urban,,113,CMB,ESMAP report4,2011,1997,winter,,11.0,,2.0,63.0,24.0
+Qalabotjha," 16,028 ",South Africa,ZAF,Southern Africa,AF,-27.02,28.62,urban,124,,CMB,ESMAP report4,2011,1997,winter,,1.0,,1.0,75.0,23.0
+Dhaka," 7,001,000 ",Bangladesh,BGD,Southern Asia,AF,23.71,90.41,residential,,22,PMF,Begum34,2005,2001/2002,year,1.0,10.2,67.0,10.0,11.9,0.0
+Rajshahi," 775,450 ",Bangladesh,BGD,Southern Asia,AF,24.37,82.60,urban,,22,PMF,Begum34,2005,2001/2002,year,14.0,1.9,33.8,,50.3,0.0
+Lahore," 5,143,000 ",Pakistan,PAK,Southern Asia,AF,31.55,74.34,urban,,192,PMF,Lodhi37,2009,2005/2006,year,,18.0,5.0,26.0,,51.0
+Karachi," 9,339,000 ",Pakistan,PAK,Southern Asia,AF,24.85,67.03,urban,,79,PMF,Mansha38,2012,2006/2008,year,,,35.1,53.7,,11.2
+Lahore," 5,143,000 ",Pakistan,PAK,Southern Asia,AF,31.55,74.34,urban,,190,PMF,Raja41,2010,2005/2006,winter,,,36.0,19.0,14.8,30.2
+Colombo," 642,163 ",Sri Lanka,LKA,Southern Asia,AF,6.82,79.85,urban,,29,PMF,Seneviratne42,2011,2000/2005,year,4.0,,75.0,,21.0,0.0
+Urumqi," 3,110,000 ",China,CHN,Southern China,AF,43.83,87.62,urban,141,,CMB,Bi13,2007,1999/2002,year,,8.0,40.0,28.0,,24.0
+Hong Kong," 7,188,000 ",China,HKG,Southern China,AF,22.30,114.17,urban,,56,PMF,Cheng14,2014,2004/2005,year,6.0,,30.0,14.0,23.0,27.0
+Qingyuan," 3,698,000 ",China,CHN,Southern China,AF,23.68,113.06,indu-residential,,83,PMF,Huang17,2013,2009/2010,year,,8.1,15.4,26.6,15.4,34.5
+Hanzhou," 6,242,000 ",China,CHN,Southern China,AF,30.28,120.16,urban,,108,PMF,Liu21,2014,2004/2005,year,,,27.0,44.7,,28.3
+Fushun," 2,138,000 ",China,CHN,Southern China,AF,41.87,123.92,urban,161,,CMB,Ni22,2012,2001/2005,year,,38.0,5.2,35.8,,21.0
+Shanghai," 14,350,000 ",China,CHN,Southern China,AF,31.23,121.47,urban-coastal,,147,PMF,Wang26,2007,2004,spring,8.9,37.4,27.0,,,26.7
+Panzhihua," 1,214,000 ",China,CHN,Southern China,AF,26.58,101.72,industrial,137,,CMB,Xue28,2010,2007,year,,,13.7,45.3,,41.0
+Hong Kong," 7,188,000 ",China,HKG,Southern China,AF,22.34,114.11,urban,36,,UNMIX,Yuan30,2006,1998/2002,year,22.0,7.0,26.0,23.0,,22.0
+Hong Kong," 7,188,000 ",China,HKG,Southern China,AF,22.34,114.11,urban,36,,PMF,Yuan30,2006,1998/2002,year,14.0,5.0,25.0,10.0,9.0,37.0
+Lijian," 1,244,000 ",China,CHN,Southern China,AF,26.85,100.22,urban,,5,PCA,Zhang32,2013,2009,spring,,33.2,25.9,,29.0,11.9
+Taipei," 2,619,000 ",Taiwan,TWN,Southern China,AF,25.09,121.56,urban,,25,PCA,Liang20,2013,2009,spring,,,65.0,29.0,,6.0
+Taipei," 2,619,000 ",Taiwan,TWN,Southern China,AF,25.09,121.56,urban,,150,PCA,Liang20,2013,2009,spring,,24.0,64.0,,,12.0
+Ikoyi," 5,195,000 ",Africa,NGA,Western Africa,AF,6.46,3.60,urban,92,,CMB,Oluyemi124,2001,1989/1991,year,24.4,,57.6,4.5,,13.5
+Ikeja," 313,000 ",Africa,NGA,Western Africa,AF,6.58,3.33,industrial,176,,CMB,Oluyemi124,2001,1989/1991,year,27.8,,33.6,7.4,,31.2
+Yaba," 5,195,000 ",Africa,NGA,Western Africa,AF,6.51,3.38,residential,188,,CMB,Oluyemi124,2001,1989/1991,year,34.2,,39.0,7.8,,19.0
+Accra," 1,658,900 ",Africa,GHA,Western Africa,AF,5.55,-0.20,urban,,66,PMF,"Zhou122,123",2013,2006/2007,year,,17.0,22.5,,50.5,10.0
+Graz-Don Bosco," 265,318 ",Austria,AUT,Western Europe,AF,47.06,15.42,urban,44,,CMB,AQUELLA134,2007,2004,year,1.8,25.0,15.0,,15.5,42.7
+Hartberg," 6,634 ",Austria,AUT,Western Europe,AF,47.28,15.97,residential alpine,50,,CMB,AQUELLA134,2007,2004,year,1.0,38.0,4.5,,19.7,36.8
+Koeflach," 9,953 ",Austria,AUT,Western Europe,AF,47.06,15.08,residential alpine,57,,CMB,AQUELLA134,2007,2004,year,6.0,24.3,5.7,,25.7,38.3
+Linz," 191,107 ",Austria,AUT,Western Europe,AF,48.31,14.29,industrial,21,,APCS,"Astel136,137",2010,2006,year,,,61.7,29.0,,9.3
+Vienna," 1,731,000 ",Austria,AUT,Western Europe,AF,48.21,16.37,urban,22,,APCS,"Astel136,137",2010,2006,year,,16.0,50.7,,,33.3
+Antwerp," 480,000 ",Belgium,BEL,Western Europe,AF,51.22,4.40,urban,,12,FA,Van Borm217,1987,1986,winter,47.0,,21.0,16.5,,15.5
+Dunkirk," 94,446 ",France,FRA,Western Europe,AF,51.03,2.38,ind-harbor,25,,PMF,Alleman125,2010,2003/5,year,12.0,11.0,28.0,37.0,,12.0
+Toulouse," 892,100 ",France,FRA,Western Europe,AF,43.61,1.44,urban,13,,PCA,Calvo141,2008,2004/5,year,13.0,25.0,34.0,9.0,,19.0
+Marseille," 851,400 ",France,FRA,Western Europe,AF,43.30,5.37,urban,,20,CMB,El Haddad147,2011,2008,summer,1.3,,17.0,,,81.7
+Malraux road tunnel ," 1,000,000 ",France,FRA,Western Europe,AF,43.70,7.27,urban traffic,,53,PMF,Fabretti148,2009,2006/7,year,,,100.0,,,0.0
+Ile de France," 2,221,000 ",France,FRA,Western Europe,AF,48.86,2.35,urban,,14,PMF,AIRPARIF/LASCE204,2012,2009/2010,year,4.0,,14.0,11.0,20.0,51.0
+Lens," 36,540 ",France,FRA,Western Europe,AF,50.42,2.35,urban,21,,PMF,Waked198,2014,2011/2012,year,27.0,13.0,6.0,4.0,13.0,37.0
+Paris," 2,221,000 ",France,FRA,Western Europe,AF,48.86,2.35,urban,,14,LENSCHOW,AIRPARIF/LSCE220,2011,2009/2010,year,4.0,,14.0,11.0,20.0,51.0
+Paris," 2,221,000 ",France,FRA,Western Europe,AF,48.86,2.35,urban,,14,PMF,AIRPARIF/LSCE220,2011,2009/2011,year,5.0,,18.0,12.0,14.0,51.0
+Munster," 291,700 ",Germany,DEU,Western Europe,AF,51.96,7.63,urban,22,,PMF,Gietl150,2009,2006/7,year,9.6,,28.4,24.3,,37.7
+Augsburg," 266,647 ",Germany,DEU,Western Europe,AF,48.37,10.89,urban,32,,PMF,Gu152,2011,2006/7,winter,6.6,20.0,16.6,,13.2,43.6
+Berlin," 3,500,000 ",Germany,DEU,Western Europe,AF,52.52,13.41,urban,52,,LENSCHOW,Lenschow164,2001,1999,year,,19.0,53.6,16.7,7.8,2.9
+Erfurt," 206,384 ",Germany,DEU,Western Europe,AF,50.97,11.02,urban,,16,APCS,"Vallius189,190",2005,1998/9,year,,21.0,36.0,8.0,,35.0
+Erfurt," 206,384 ",Germany,DEU,Western Europe,AF,50.97,11.02,urban,19,,PMF,Yue202,2008,1997/2001,year,,8.0,43.0,17.0,,32.0
+North Rhine," 17,840,000 ",Germany,DEU,Western Europe,AF,50.65,6.27,rural,13,,PMF,Beuck207,2011,2008/2009,year,10.0,10.0,2.0,25.0,7.0,46.0
+Ruhr area," 5,300,000 ",Germany,DEU,Western Europe,AF,51.45,6.85,urban,26,,PMF,Beuck207,2011,2008/2009,year,9.0,14.0,8.0,29.0,6.0,34.0
+Basel," 165,489 ",Switzerland,CHE,Western Europe,AF,47.56,7.59,residential,,19,PCA,Ilacqua157,2007,1997/8,year,2.7,7.7,51.5,,,38.1
+Zurich," 366,765 ",Switzerland,CHE,Western Europe,AF,47.38,8.53,urban,,21,PMF,Richard210,2011,2008/2009,year,6.0,11.0,9.0,2.0,2.0,70.0
+Amsterdam," 779,808 ",The Netherlands,NLD,Western Europe,AF,52.37,4.89,urban,,17,APCS,"Vallius189,190",2005,1998/9,year,2.0,6.9,30.0,20.0,,41.1
+Amsterdam," 779,808 ",The Netherlands,NLD,Western Europe,AF,52.37,4.89,urban,,17,ME,"Yli-Tuomi200,201",2007,1998/9,year,3.0,4.0,10.0,34.0,,49.0
+Mumbai," 11,980,000 ",India,IND,India,AS,19.02,72.86,residential,,55,CMB,ESMAP report4,2011,2001,year,,,50.6,2.5,22.0,24.9
+Delhi," 9,879,000 ",India,IND,India,AS,28.64,77.22,residential,,140,CMB,ESMAP report4,2011,2001,year,,,41.5,3.5,18.3,36.8
+Kolkata," 4,573,000 ",India,IND,India,AS,22.57,88.36,residential,,166,CMB,ESMAP report4,2011,2001,year,,,55.0,5.8,23.0,16.3
+Hyderabad," 3,637,000 ",India,IND,India,AS,17.39,78.49,urban,,50,CMB,Gummeneni35,2011,2004/2005,year,,26.0,31.0,22.0,,21.0
+Hyderabad," 3,637,000 ",India,IND,India,AS,17.39,78.49,urban,135,,CMB,Gummeneni35,2011,2004/2005,year,,40.0,22.0,28.0,,10.0
+Hyderabad," 3,637,000 ",India,IND,India,AS,17.39,78.49,urban,,54,CMB,Guttikunda36,2012,2006/2010,year,,,58.1,17.3,13.0,11.6
+Hyderabad," 3,637,000 ",India,IND,India,AS,17.39,78.49,urban,114,,CMB,Guttikunda36,2012,2006/2010,year,,,77.1,10.5,6.2,6.2
+Kanpur," 2,551,000 ",India,IND,India,AS,26.46,80.32,urban,228,,PMF,Mehta39,2009,2004,winter,19.0,22.5,,,25.0,33.5
+Nagpur," 2,052,000 ",India,IND,India,AS,21.15,79.09,urban,,83,CMB,Pipalatkar40,2014,2009/2010,fall,,8.3,64.3,,11.0,16.4
+Ahmedabad," 3,520,000 ",India,IND,India,AS,23.03,72.53,urban,,54,PMF,Sudheer43,2012,2006/2007,winter,,10.0,15.0,42.0,33.0,0.0
+Akagi, < 50 ,Japan,JPN,Japan,AS,36.50,139.20,remote,,9,CMB,Iijima44,2008,2003/2006,year,,80.0,0.2,11.6,,8.2
+Maebashi," 340,921 ",Japan,JPN,Japan,AS,36.40,139.10,suburban,,9,CMB,Iijima44,2008,2003/2006,year,,54.4,0.5,43.0,,2.1
+Tokyo," 13,350,000 ",Japan,JPN,Japan,AS,35.70,139.70,urban,,9,CMB,Iijima44,2008,2003/2006,year,,30.0,45.0,25.0,,0.0
+Incheon," 2,531,000 ",Korea,KOR,Korea region,AS,37.28,126.39,urban,,38,PMF,Choi45,2013,2009/2010,year,5.9,6.1,23.0,14.6,6.1,44.3
+Daejeon," 1,443,000 ",Korea,KOR,Korea region,AS,36.35,127.38,industrial,86,,PMF,Lim46,2010,2000/2002,year,,16.0,21.0,17.0,3.0,43.0
+Jeju Island," 605,524 ",Korea,KOR,Korea region,AS,33.28,126.17,remote,,23,PMF,Moon47,2008,2001/2003,year,2.8,8.4,10.3,16.1,7.1,55.3
+Seoul," 9,820,000 ",Korea,KOR,Korea region,AS,37.57,126.98,urban,,42,PCA-MLR,Park48,2005,1998/1999,year,,9.2,22.0,14.6,,54.2
+Seoul," 9,820,000 ",Korea,KOR,Korea region,AS,37.57,126.98,urban,,42,CMB,Park48,2005,1998/1999,year,1.3,13.0,25.0,17.2,4.0,39.5
+Jinan," 3,000,000 ",China,CHN,Northern China,AS,36.66,116.99,urban,115,,CMB,Bi13,2007,1999/2002,year,,22.0,39.0,19.0,,20.0
+Tianjin," 7,499,000 ",China,CHN,Northern China,AS,39.12,117.21,urban,123,,CMB,Bi13,2007,1999/2002,year,,11.0,47.0,16.0,,26.0
+Yinchuan," 807,000 ",China,CHN,Northern China,AS,38.49,106.23,urban,133,,CMB,Bi13,2007,1999/2002,year,,3.0,66.0,23.0,,8.0
+Anyang," 5,172,000 ",China,CHN,Northern China,AS,35.20,113.63,urban,145,,CMB,Bi13,2007,1999/2002,year,,9.0,45.0,18.0,,28.0
+Taiyuan," 4,330,000 ",China,CHN,Northern China,AS,37.87,112.55,urban,186,,CMB,Bi13,2007,1999/2002,year,,9.0,47.0,18.0,,26.0
+Zhengzhou," 8,626,000 ",China,CHN,Northern China,AS,34.80,113.52,urban,,175,PCA,Geng16,2013,2010,year,,36.2,10.0,12.0,25.3,16.6
+Tianjin," 7,499,000 ",China,CHN,Northern China,AS,39.12,117.21,coastal,,120,PCA,Kong18,2010,2007/2008,year,15.0,9.3,21.6,,7.4,46.7
+Tianjin," 7,499,000 ",China,CHN,Northern China,AS,39.12,117.21,coastal,,120,CMB,Kong18,2010,2007/2008,year,7.0,10.0,34.0,16.0,,33.0
+Tianjin," 7,499,000 ",China,CHN,Northern China,AS,39.12,117.21,coastal,209,,CMB,Kong18,2010,2007/2008,year,2.0,18.0,20.0,30.0,,30.0
+Tianjin," 7,499,000 ",China,CHN,Northern China,AS,39.12,117.21,coastal,209,,PCA,Kong18,2010,2007/2008,year,11.9,24.3,9.5,11.3,,43.0
+Xiamen," 2,053,000 ",China,CHN,Northern China,AS,24.36,118.03,rural,81,,CMB,Li19,2013,2008/2009,year,3.5,22.0,13.5,30.0,1.7,29.3
+Xiamen," 2,053,000 ",China,CHN,Northern China,AS,24.43,118.09,urban,81,,CMB,Li19,2013,2008/2009,year,3.6,19.0,19.2,26.7,7.5,24.0
+Anshan," 1,556,000 ",China,CHN,Northern China,AS,41.12,122.98,urban,159,,CMB,Ni22,2012,2001/2005,year,,14.0,8.1,45.8,,32.1
+Shenyang," 5,303,000 ",China,CHN,Northern China,AS,41.83,123.40,urban,188,,CMB,Ni22,2012,2001/2005,year,,31.5,14.1,44.6,,9.8
+Huludao," 2,822,000 ",China,CHN,Northern China,AS,40.93,120.63,urban,275,,CMB,Ni22,2012,2001/2005,year,4.0,29.0,11.9,19.9,,35.2
+Beijing," 11,510,000 ",China,CHN,Northern China,AS,39.89,116.39,urban,,96,PMF,Song23,2006,2000,year,,,13.0,20.8,10.5,55.7
+Beijing," 11,510,000 ",China,CHN,Northern China,AS,39.89,116.39,urban,,96,PCA/APCS,Song23,2006,2000,year,,,13.6,34.3,,52.1
+Beijing," 11,510,000 ",China,CHN,Northern China,AS,39.89,116.39,urban,,96,CMB,Song23,2006,2000,year,,,19.5,6.6,8.6,65.3
+Beijing," 11,510,000 ",China,CHN,Northern China,AS,39.89,116.39,urban,,96,UNMIX,Song23,2006,2000,year,,,19.7,35.3,,45.0
+Beijing," 11,510,000 ",China,CHN,Northern China,AS,39.89,116.39,urban,,79,PMF,Song23,2007,2004,year,,,18.0,29.0,14.6,38.4
+Chengdu," 14,047,000 ",China,CHN,Northern China,AS,30.66,104.93,urban,,165,PMF,Tao24,2013,2009/2010,year,,18.0,18.8,,33.0,30.2
+Chengdu," 14,047,000 ",China,CHN,Northern China,AS,30.66,104.93,urban,,103,PMF,Tian25,2013,2009/2012,year,,30.0,25.0,,,45.0
+Chengdu," 14,047,000 ",China,CHN,Northern China,AS,30.66,104.93,urban,172,,PMF,Tian25,2013,2009/2012,year,,39.0,22.4,,,38.6
+Duolun, < 50 ,China,CHN,Northern China,AS,42.20,116.49,suburban,,100,PMF,Wang26,2007,2004,spring,8.9,37.4,27.0,,,26.7
+Yulin," 5,487,000 ",China,CHN,Northern China,AS,38.20,109.80,suburban,,177,PMF,Wang26,2007,2004,spring,8.9,37.4,27.0,,,26.7
+Beijing," 11,510,000 ",China,CHN,Northern China,AS,39.89,116.39,urban,,203,PMF,Wang26,2007,2004,spring,8.9,37.4,27.0,,,26.7
+Qingdao," 2,721,000 ",China,CHN,Northern China,AS,36.07,120.38,urban-coastal,,212,PMF,Wang26,2007,2004,spring,8.9,37.4,27.0,,,26.7
+Baoji," 3,716,000 ",China,CHN,Northern China,AS,34.37,107.13,residential,406,,PMF,Xie27,2010,2008,year,,49.0,,24.0,24.0,3.0
+Beijing," 11,510,000 ",China,CHN,Northern China,AS,39.89,116.39,urban,,55,PMF,Yu29,2013,2010,year,,10.4,29.7,22.0,11.2,26.7
+Taiyuan," 4,330,000 ",China,CHN,Northern China,AS,37.87,112.55,urban,305,,PMF,Zeng31,2010,2001/2002,year,,7.0,39.0,30.0,,24.0
+Ulaanbaatar," 1,190,000 ",Mongolia,MNG,Northern China,AS,47.93,106.97,urban,,46,PMF,Davy15,2011,2004/2008,year,,10.9,,53.2,2.4,33.6
+Bandung," 2,395,000 ",Indonesia,IDN,South Eastern Asia,AS,-6.91,107.61,urban,,44,PMF,Lestari74,2009,2001/2007,year,13.0,,28.5,15.0,14.5,29.0
+Jakarta," 9,608,000 ",Indonesia,IDN,South Eastern Asia,AS,-6.21,106.84,urban,,30,PMF,Santoso78,2013,2008/2009,year,,9.2,52.4,7.5,30.9,0.0
+Pekanbaru," 897,767 ",Indonesia,IDN,South Eastern Asia,AS,0.53,101.45,urban,,140,CMB,See79,2007,2005,spring,,40.6,27.5,6.6,18.0,7.3
+Belakang," 820,243 ",Indonesia,IDN,South Eastern Asia,AS,0.90,102.41,rural,,> 300,CMB,See79,2007,2005,spring,,18.4,25.0,2.7,51.0,2.9
+Kuala Terengganu," 31,469 ",Malaysia,MYS,South Eastern Asia,AS,5.40,103.10,urban,,14,PCA,Tahir75,2013,2006/2007,year,9.1,33.8,17.5,,4.9,34.7
+Kuala Lumpur ," 1,589,000 ",Malaysia,MYS,South Eastern Asia,AS,3.18,101.72,urban,,27,PMF,Rahman77,2011,2004/2008,year,,,65.9,16.7,,17.4
+Manila," 1,661,000 ",Philippines,PHL,South Eastern Asia,AS,14.58,120.97,urban,,49,PMF,"Cohen70,71",2008,2001/2007,year,2.0,4.0,69.0,,2.0,23.0
+Valenzuela," 568,928 ",Philippines,PHL,South Eastern Asia,AS,14.86,120.97,urban,,15,PMF,Pabroa76,2011,2005,year,,3.2,53.0,43.7,,0.1
+Pathumthani," 996,000 ",Thailand,THA,South Eastern Asia,AS,14.20,100.66,suburban,,20,PMF,Wimolwattanapun80,2011,2003/2007,year,1.3,7.3,43.0,,32.0,16.4
+Chatuchak Bankok ," 6,355,000 ",Thailand,THA,South Eastern Asia,AS,13.84,100.56,residential,,23,PMF,Wimolwattanapun80,2011,2003/2007,year,25.0,9.5,36.7,,19.0,9.8
+Hanoi," 6,562,000 ",Vietnam,VNM,South Eastern Asia,AS,20.98,105.78,urban,,54,PMF,"Cohen70,71",2010,2001/2008,year,,3.4,40.0,36.0,13.0,7.6
+Hanoi," 6,562,000 ",Vietnam,VNM,South Eastern Asia,AS,20.98,105.78,urban,,76,PMF,Hai72,2013,2007,winter,11.0,,10.0,46.0,16.0,17.0
+Cam Hai Dong," 361,454 ",Vietnam,VNM,South Eastern Asia,AS,21.09,107.36,rural,,40,PMF,Hang73,2014,2009/2010,year,,,36.0,,16.0,48.0
+Mong Duong," 195,800 ",Vietnam,VNM,South Eastern Asia,AS,21.06,107.33,industrial,,49,PMF,Hang73,2014,2009/2010,year,,,37.0,,25.0,38.0
+Tartu," 103,512 ",Estonia,EST,Central Europe,EU,58.38,26.73,urban,,15,FA,Orru11,2010,2000/2001,year,,5.0,8.0,24.0,40.0,23.0
+Skopje," 531,444 ",Macedonia,MKD,Central Europe,EU,42.00,21.45,urban,,41,FA,Kovacevik10,2011,2006/2007,year,,39.0,10.0,28.0,,23.0
+Zakopane," 27,857 ",Poland,POL,Central Europe,EU,49.30,19.95,rural,66,,CMF,Junninen9,2009,2005,winter,2.0,,1.0,5.0,78.0,14.0
+Zakopane," 27,857 ",Poland,POL,Central Europe,EU,49.30,19.95,rural,92,,CMB,Junninen9,2009,2005,winter,,,,,75.0,25.0
+Krakow," 755,546 ",Poland,POL,Central Europe,EU,50.09,19.87,rural,66,,CMF,Junninen9,2010,2007,winter,2.0,,2.0,11.0,63.0,22.0
+Krakow," 755,546 ",Poland,POL,Central Europe,EU,50.08,20.06,industrial,69,,CMF,Junninen9,2010,2007,winter,2.0,,3.0,21.0,51.0,23.0
+Krakow," 755,546 ",Poland,POL,Central Europe,EU,50.09,19.87,rural,70,,CMB,Junninen9,2010,2007,winter,,,,,75.0,25.0
+Krakow," 755,546 ",Poland,POL,Central Europe,EU,50.08,20.06,industrial,72,,CMB,Junninen9,2010,2007,winter,,1.0,,12.0,64.0,23.0
+Krakow," 755,546 ",Poland,POL,Central Europe,EU,50.06,19.94,urban,77,,UNMIX,Junninen9,2010,2005,winter,,,,35.0,21.0,44.0
+Krakow," 755,546 ",Poland,POL,Central Europe,EU,50.06,19.93,traffic,78,,CMF,Junninen9,2010,2007,winter,4.0,,10.0,18.0,45.0,23.0
+Krakow," 755,546 ",Poland,POL,Central Europe,EU,50.06,19.94,urban,87,,APCS,Junninen9,2010,2005,winter,,,,27.8,24.5,47.7
+Krakow," 755,546 ",Poland,POL,Central Europe,EU,50.06,19.93,traffic,92,,CMB,Junninen9,2010,2007,winter,,5.0,15.0,,55.0,25.0
+Zakopane," 27,857 ",Poland,POL,Central Europe,EU,49.30,19.95,rural,95,,APCS,Junninen9,2010,2005,winter,,,,,79.0,21.0
+Krakow," 755,546 ",Poland,POL,Central Europe,EU,50.04,19.94,urban,101,,CMF,Junninen9,2010,2007,winter,2.0,,4.0,16.0,60.0,18.0
+Krakow," 755,546 ",Poland,POL,Central Europe,EU,50.04,19.94,urban,109,,CMB,Junninen9,2010,2007,winter,,2.0,8.0,4.0,65.0,21.0
+Wrokalw," 632,561 ",Poland,POL,Central Europe,EU,51.12,17.03,urban,,36,APCS,Sowka12,2012,2009,winter,,15.0,54.0,14.0,,17.0
+Diabla Gora," 3,028 ",Poland,POL,Central Europe,EU,54.13,22.07,rural,15,,PCA,Juda-Rezler209,2011,2006,winter,,,,51.4,12.0,36.6
+Dar es Salam," 1,361,000 ",Africa,TZA,Eastern Africa,EU,-6.79,38.97,rural,13,,PCA,Mmari33,2013,2005/2007,year,33.8,17.2,25.8,,,23.2
+Dar es Salam," 1,361,000 ",Africa,TZA,Eastern Africa,EU,-6.78,39.20,urban,14,,PCA,Mmari33,2013,2005/2007,year,,,63.6,,,36.4
+Dar es Salam," 1,361,000 ",Africa,TZA,Eastern Africa,EU,-6.81,39.30,urban,17,,PCA,Mmari33,2013,2005/2007,year,29.3,,37.1,7.1,13.6,12.9
+Copenhagen," 569,577 ",Denmark,DNK,Northwestern Europe,EU,55.69,12.83,urban,23,,COPREM,Anderesen132,2007,2002/3,year,5.5,5.5,9.0,15.0,31.3,33.7
+Copenhagen," 569,577 ",Denmark,DNK,Northwestern Europe,EU,55.69,12.83,residential,,16,COPREM,Glasius151,2006,2003/4,winter,,,5.0,,28.7,66.3
+Copenhagen," 569,577 ",Denmark,DNK,Northwestern Europe,EU,55.69,12.83,urban,27,,COPREM,Wahlin195�197,2008,2005/7,year,5.6,5.6,9.3,15.0,33.4,31.1
+Helsinki," 596,233 ",Finland,FIN,Northwestern Europe,EU,60.17,24.94,urban,,10,PCA,Ilacqua157,2007,1996/7,year,,20.8,25.0,29.1,,25.1
+Helsinki," 596,233 ",Finland,FIN,Northwestern Europe,EU,60.17,24.94,urban,,11,APCS,"Vallius189,190",2005,1998/9,year,7.4,5.1,23.0,12.7,,51.8
+Helsinki," 596,233 ",Finland,FIN,Northwestern Europe,EU,60.17,24.94,urban,,13,APCS,"Vallius189,190",2008,1998/9,year,2.4,5.0,19.0,14.0,,59.6
+Helsinki," 596,233 ",Finland,FIN,Northwestern Europe,EU,60.17,24.94,urban,,11,ME,"Yli-Tuomi200,201",2007,1999,spring,3.0,7.0,5.0,36.0,,49.0
+Virolahti," 3,438 ",Finland,FIN,Northwestern Europe,EU,60.53,27.68,rural,2,,PMF,Vestenius215,2011,2007/2008,year,12.0,38.0,,,50.0,0.0
+County Cork," 480,909 ",Ireland,IRL,Northwestern Europe,EU,51.88,-8.82,rural,10,,PCA,Byrd139,2010,2005/7,year,,58.0,32.0,10.5,,
+County Cork," 480,909 ",Ireland,IRL,Northwestern Europe,EU,52.14,-8.65,urban,14,,PCA,Byrd139,2010,2005/6,year,,50.0,10.0,16.0,,24.0
+County Cork," 480,909 ",Ireland,IRL,Northwestern Europe,EU,51.80,-8.34,urban-coastal,20,,PCA,Byrd139,2010,2005,spring,12.0,8.0,53.0,9.9,,17.1
+County," 480,909 ",Ireland,IRL,Northwestern Europe,EU,51.92,-8.18,industrial,26,,PCA,Byrd139,2010,2005/6,year,17.0,27.0,9.0,19.0,,28.0
+Cork Harbour," 119,230 ",Ireland,IRL,Northwestern Europe,EU,51.84,-8.27,urban-harb,,10,PMF,Healy153,2010,2008,summer,14.0,11.0,23.0,12.5,4.7,34.8
+Cork Harbour," 119,230 ",Ireland,IRL,Northwestern Europe,EU,51.84,-8.27,urban-harb,,3,PCA,"Hellebust154,155",2010,2007/8,year,19.0,11.0,,5.0,,65.0
+Cork," 119,230 ",Ireland,IRL,Northwestern Europe,EU,51.90,-8.47,urban-harb,,12,PMF,"Hellebust154,155",2010,2008,year,,,19.0,31.0,14.0,36.0
+Mace Head, < 50 ,Ireland,IRL,Northwestern Europe,EU,53.32,-9.90,remote-coastal,15,,PMF,Huang156,2001,1988/94,year,60.0,0.4,,,,39.6
+Oslo," 593,045 ",Norway,NOR,Northwestern Europe,EU,59.91,10.75,urban traffic,,24,PMF,Laupsa163,2009,2004/5,year,,,54.6,,29.0,16.4
+Stockholm," 789,024 ",Sweden,SWE,Northwestern Europe,EU,59.33,18.06,urban traffic,18,,PMF,Furusjo149,2007,2003/4,year,10.0,23.0,13.0,19.0,,35.0
+Stockholm," 789,024 ",Sweden,SWE,Northwestern Europe,EU,59.33,18.06,urban traffic,36,,PMF,Furusjo149,2007,2003/4,year,1.0,23.0,36.0,14.0,,26.0
+Lycksele," 8,597 ",Sweden,SWE,Northwestern Europe,EU,64.60,18.68,urban,11,,PMF,Krecl161,2008,2006,winter,,,18.0,,36.0,46.0
+Lund," 82,800 ",Sweden,SWE,Northwestern Europe,EU,55.70,13.20,urban,,2,PCA,Swietlicki219,1996,1993,spring,13.5,,17.6,49.2,,19.7
+Harwell," 2,354 ",UK,GBR,Northwestern Europe,EU,51.60,-1.29,rural,,10,APEG,DEFRA146,2005,2002,year,,50.0,11.0,12.0,,27.0
+Rochester," 27,000 ",UK,GBR,Northwestern Europe,EU,51.39,0.50,urban,,11,APEG,DEFRA146,2005,2002,year,,32.0,5.0,20.0,,43.0
+M25 Staines," 175,000 ",UK,GBR,Northwestern Europe,EU,51.44,-0.51,rural,,13,APEG,DEFRA146,2005,2002,year,,18.0,44.0,12.0,,26.0
+Glasgow," 598,830 ",UK,GBR,Northwestern Europe,EU,55.87,-4.26,urban,,14,APEG,DEFRA146,2005,2002,year,,30.0,23.0,31.0,,16.0
+London," 8,308,000 ",UK,GBR,Northwestern Europe,EU,51.52,-0.12,urban,,14,APEG,DEFRA146,2005,2002,year,,40.0,12.0,18.0,,30.0
+Belfast," 267,500 ",UK,GBR,Northwestern Europe,EU,54.60,-5.93,urban,,16,APEG,DEFRA146,2005,2002,year,,22.0,10.0,30.0,,38.0
+Birmingham," 1,074,000 ",UK,GBR,Northwestern Europe,EU,52.48,-1.89,urban,,16,APEG,DEFRA146,2005,2002,year,,26.0,11.0,27.0,,36.0
+Manchester," 503,127 ",UK,GBR,Northwestern Europe,EU,53.48,-2.23,urban,,16,APEG,DEFRA146,2005,2002,year,,40.0,10.0,17.0,,33.0
+London," 8,308,000 ",UK,GBR,Northwestern Europe,EU,51.50,-0.19,urban,,18,APEG,DEFRA146,2005,2002,year,,16.0,20.0,23.0,,41.0
+Marylebone Road London," 8,308,000 ",UK,GBR,Northwestern Europe,EU,51.52,-0.15,urban traffic,,21,APEG,DEFRA146,2005,2002,year,,26.0,47.0,8.0,,19.0
+Harwell," 2,354 ",UK,GBR,Northwestern Europe,EU,51.60,-1.29,rural,13,,APEG,DEFRA146,2005,2002,year,,60.0,5.0,7.0,,28.0
+Glasgow," 598,830 ",UK,GBR,Northwestern Europe,EU,55.87,-4.26,urban,16,,APEG,DEFRA146,2005,2002,year,,43.0,12.0,17.0,,28.0
+Birmingham," 1,074,000 ",UK,GBR,Northwestern Europe,EU,52.48,-1.89,urban,17,,APEG,DEFRA146,2005,2002,year,,54.0,7.0,18.0,,21.0
+Belfast," 267,500 ",UK,GBR,Northwestern Europe,EU,54.60,-5.93,urban,18,,APEG,DEFRA146,2005,2002,year,,40.0,8.0,26.0,,26.0
+London Bexley," 8,308,000 ",UK,GBR,Northwestern Europe,EU,51.44,0.15,urban,19,,APEG,DEFRA146,2005,2002,year,,42.0,9.0,20.0,,29.0
+London North Kensington ," 8,308,000 ",UK,GBR,Northwestern Europe,EU,51.50,-0.19,urban,19,,APEG,DEFRA146,2005,2002,year,,51.0,9.0,14.0,,26.0
+Thurrock," 251,100 ",UK,GBR,Northwestern Europe,EU,51.50,0.42,urban,21,,APEG,DEFRA146,2005,2002,year,,45.0,5.0,20.0,,30.0
+Haringey," 255,500 ",UK,GBR,Northwestern Europe,EU,51.59,-0.11,urban traffic,21,,APEG,DEFRA146,2005,2002,year,,50.0,21.0,10.0,,19.0
+Manchester Piccadilly," 503,127 ",UK,GBR,Northwestern Europe,EU,53.48,-2.23,urban,22,,APEG,DEFRA146,2005,2002,year,,50.0,10.0,17.0,,23.0
+M25 Staines," 175,000 ",UK,GBR,Northwestern Europe,EU,51.44,-0.51,urban,23,,APEG,DEFRA146,2005,2002,year,,28.0,39.0,8.0,,25.0
+Bury," 60,718 ",UK,GBR,Northwestern Europe,EU,53.59,-2.30,urban traffic,24,,APEG,DEFRA146,2005,2002,year,,41.0,27.0,15.0,,17.0
+Marylebone Road London," 8,308,000 ",UK,GBR,Northwestern Europe,EU,51.52,-0.15,urban traffic,34,,APEG,DEFRA146,2005,2002,year,,35.0,41.0,10.0,,14.0
+Port Talbot," 35,633 ",UK,GBR,Northwestern Europe,EU,51.56,-3.77,urban-industrial,,8,PMF,Taiwo188,2014,2012,spring,20.0,,13.0,14.0,,53.0
+Port Talbot," 35,633 ",UK,GBR,Northwestern Europe,EU,51.56,-3.77,urban-industrial,20,,PMF,Taiwo188,2014,2012,spring,28.0,,16.0,45.0,,11.0
+Birmingham," 1,074,000 ",UK,GBR,Northwestern Europe,EU,52.42,-2.19,rural,11,,CMB,Yin199,2010,2007/8,year,5.2,8.3,9.7,10.7,,66.1
+Birmingham," 1,074,000 ",UK,GBR,Northwestern Europe,EU,52.45,-1.93,urban,12,,CMB,Yin199,2010,2007/8,year,6.7,4.9,12.9,10.7,,64.8
+Birmingham," 1,074,000 ",UK,GBR,Northwestern Europe,EU,52.48,-1.89,urban,,11,PCFA,Harrison218,1997,1992,year,2.0,,57.0,18.0,,23.0
+Athens," 3,074,000 ",Greece,GRC,Southwestern Europe,EU,37.98,23.72,urban,,37,PCA,Ilacqua157,2007,1997/8,year,11.0,27.8,45.0,6.0,,10.2
+Athens," 3,074,000 ",Greece,GRC,Southwestern Europe,EU,37.98,23.72,urban,,18,PMF,Karanasiou158�160,2009,2002,year,19.0,,54.0,12.0,15.0,0.0
+Athens," 3,074,000 ",Greece,GRC,Southwestern Europe,EU,37.98,23.72,urban,54,,PMF,Karanasiou158�160,2009,2002,year,18.0,13.0,53.0,7.0,9.0,0.0
+Tessaloniki," 385,400 ",Greece,GRC,Southwestern Europe,EU,40.64,22.94,urban,,97,APCS,Manoli165,2002,1994/5,year,,,66.0,14.0,,20.0
+Tessaloniki," 385,400 ",Greece,GRC,Southwestern Europe,EU,40.64,22.94,urban,30,,APCS,Manoli165,2002,1994/5,year,,,66.0,26.0,,8.0
+Tessaloniki," 385,400 ",Greece,GRC,Southwestern Europe,EU,40.64,22.94,urban,274,,APCS,Samara216,1994,1987/1988,year,,6.8,4.4,17.7,,71.1
+Civitavecchia," 51,449 ",Italy,ITA,Southwestern Europe,EU,42.09,11.80,urban,33,,CMB,Andriani133,2011,2008,summer,3.0,33.0,39.0,12.0,4.0,9.0
+Civitavecchia," 51,449 ",Italy,ITA,Southwestern Europe,EU,42.09,11.80,urban,33,,PMF,Andriani133,2011,2008,summer,,41.0,,17.0,,42.0
+Trieste," 205,500 ",Italy,ITA,Southwestern Europe,EU,45.59,13.78,urban-harb,,12,PCA,"Astel136,137",2009,2006,year,13.0,,8.0,38.0,,41.0
+Bari," 322,751 ",Italy,ITA,Southwestern Europe,EU,41.13,16.87,urban,,12,APCS,Bruno138,2008,2005,fall,12.0,20.0,14.0,,,54.0
+Rome," 2,753,000 ",Italy,ITA,Southwestern Europe,EU,41.85,12.49,urban,35,,PCA,Canepari142,2006,2003,spring,11.0,40.0,,,,49.0
+Lecce," 93,544 ",Italy,ITA,Southwestern Europe,EU,40.35,18.17,urban,26,,APCS,"Contini143,144",2010,2007/8,year,6.3,49.5,16.5,2.1,,25.6
+Florence," 370,292 ",Italy,ITA,Southwestern Europe,EU,43.77,11.26,urban,,13,FA,D'Alessandro145,2003,2001,year,,16.0,40.0,15.0,,29.0
+Naples," 989,111 ",Italy,ITA,Southwestern Europe,EU,40.84,14.25,urban,,16,FA,D'Alessandro145,2003,2001,year,12.0,24.0,39.0,6.0,,19.0
+Naples," 989,111 ",Italy,ITA,Southwestern Europe,EU,40.84,14.25,urban,16,,FA,D'Alessandro145,2003,2001,year,26.0,25.0,36.0,,,13.0
+Florence," 370,292 ",Italy,ITA,Southwestern Europe,EU,43.77,11.26,urban,18,,FA,D'Alessandro145,2003,2001,year,15.0,19.0,49.0,,,17.0
+Modena," 183,900 ",Italy,ITA,Southwestern Europe,EU,44.65,10.93,urban,36,,APCS,D'Alessandro145,2006,2004,summer,3.0,28.0,17.0,,,52.0
+Sondrio," 22,043 ",Italy,ITA,Southwestern Europe,EU,46.17,9.87,residential alpine,,51,PMF,Larsen162,2010,2009,winter,,5.0,41.0,,34.0,20.0
+Sondrio," 22,043 ",Italy,ITA,Southwestern Europe,EU,46.17,9.87,residential alpine,,51,CMB,Larsen162,2010,2009,winter,,,36.0,1.0,27.0,36.0
+Sannnazzaro," 5,920 ",Italy,ITA,Southwestern Europe,EU,45.10,8.91,rural,,55,PMF,Larsen162,2010,2009,winter,,4.3,8.0,,7.0,80.7
+Sannnazzaro," 5,920 ",Italy,ITA,Southwestern Europe,EU,45.10,8.91,rural,,55,CMB,Larsen162,2010,2009,winter,,,7.0,,24.0,69.0
+Milan," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.46,9.19,urban,,71,PMF,Larsen162,2010,2009,winter,,6.0,28.0,,9.0,57.0
+Milan," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.46,9.19,urban,,71,PMF,Larsen162,2010,2009,summer,,6.0,28.0,,9.0,57.0
+Milan," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.46,9.19,urban,,71,CMB,Larsen162,2010,2009,winter,,,20.0,,17.0,63.0
+Milan," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.46,9.19,urban,,71,CMB,Larsen162,2010,2009,summer,,,20.0,,17.0,63.0
+Mantova," 48,588 ",Italy,ITA,Southwestern Europe,EU,45.16,10.80,urban,,73,CMB,Larsen162,2010,2009,winter,1.0,2.0,10.0,,21.0,66.0
+Mantova," 48,588 ",Italy,ITA,Southwestern Europe,EU,45.16,10.80,urban,,73,PMF,Larsen162,2010,2009,winter,,9.0,8.0,,8.0,75.0
+Cant�," 40,000 ",Italy,ITA,Southwestern Europe,EU,45.74,9.13,urban,,77,CMB,Larsen162,2010,2009,winter,,1.0,13.0,,21.0,65.0
+Cant�," 40,000 ",Italy,ITA,Southwestern Europe,EU,45.74,9.13,urban,,77,PMF,Larsen162,2010,2009,winter,,7.0,20.0,,14.0,59.0
+Brescia," 192,700 ",Italy,ITA,Southwestern Europe,EU,45.54,10.22,urban,,79,CMB,Larsen162,2010,2009,winter,,2.0,14.0,,15.0,69.0
+Brescia," 192,700 ",Italy,ITA,Southwestern Europe,EU,45.54,10.22,urban,,79,PMF,Larsen162,2010,2009,winter,,15.0,14.0,,5.0,66.0
+Milan," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.46,9.19,urban traffic,,87,PMF,Larsen162,2010,2009,winter,,5.6,27.8,,8.0,58.7
+Milan," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.46,9.19,urban traffic,,87,CMB,Larsen162,2010,2009,winter,,,22.0,,15.0,63.0
+Sondrio," 22,043 ",Italy,ITA,Southwestern Europe,EU,46.17,9.87,residential alpine,52,,PMF,Larsen162,2010,2007,winter,,9.0,26.0,,44.0,21.0
+Sondrio," 22,043 ",Italy,ITA,Southwestern Europe,EU,46.17,9.87,residential alpine,52,,CMB,Larsen162,2010,2007,winter,,,30.0,6.0,20.0,44.0
+Sannnazzaro," 5,920 ",Italy,ITA,Southwestern Europe,EU,45.10,8.91,rural,56,,PMF,Larsen162,2010,2007,winter,,7.0,11.0,,5.0,77.0
+Sannnazzaro," 5,920 ",Italy,ITA,Southwestern Europe,EU,45.10,8.91,rural,56,,CMB,Larsen162,2010,2007,winter,1.0,,12.0,,16.0,71.0
+Lodi," 43,465 ",Italy,ITA,Southwestern Europe,EU,45.31,9.50,rural,68,,PMF,Larsen162,2010,2007,winter,,8.0,16.0,,6.0,70.0
+Lodi," 43,465 ",Italy,ITA,Southwestern Europe,EU,45.31,9.50,rural,68,,CMB,Larsen162,2010,2007,winter,2.0,,16.0,,14.0,68.0
+Cantu," 40,000 ",Italy,ITA,Southwestern Europe,EU,45.74,9.13,urban,69,,CMB,Larsen162,2010,2007,winter,,2.0,27.0,,16.0,55.0
+Cantu," 40,000 ",Italy,ITA,Southwestern Europe,EU,45.74,9.13,urban,69,,PMF,Larsen162,2010,2007,winter,,10.0,31.0,,19.0,40.0
+Saronno," 39,422 ",Italy,ITA,Southwestern Europe,EU,45.63,9.04,urban,74,,CMB,Larsen162,2010,2009,winter,,2.0,29.0,,11.0,58.0
+Saronno," 39,422 ",Italy,ITA,Southwestern Europe,EU,45.63,9.04,urban,74,,PMF,Larsen162,2010,2009,winter,,8.0,37.0,,12.0,43.0
+Mantova," 48,588 ",Italy,ITA,Southwestern Europe,EU,45.16,10.80,urban,76,,CMB,Larsen162,2010,2007,winter,1.0,2.0,12.0,,12.0,73.0
+Mantova," 48,588 ",Italy,ITA,Southwestern Europe,EU,45.16,10.80,urban,76,,PMF,Larsen162,2010,2007,winter,,11.0,8.0,,6.5,74.5
+Lodi," 43,465 ",Italy,ITA,Southwestern Europe,EU,45.31,9.50,rural,80,,PMF,Larsen162,2010,2009,winter,,7.1,14.3,,10.0,68.6
+Lodi," 43,465 ",Italy,ITA,Southwestern Europe,EU,45.31,9.50,rural,80,,CMB,Larsen162,2010,2007,winter,1.0,,13.0,,19.0,67.0
+Bergamo," 118,700 ",Italy,ITA,Southwestern Europe,EU,45.69,9.67,urban,80,,CMB,Larsen162,2010,2007,winter,,4.0,28.0,,9.0,59.0
+Bergamo," 118,700 ",Italy,ITA,Southwestern Europe,EU,45.69,9.67,urban,80,,PMF,Larsen162,2010,2007,winter,,17.0,24.0,,14.0,45.0
+Milan," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.46,9.19,urban,86,,PMF,Larsen162,2010,2009,winter,,8.0,35.0,,7.0,50.0
+Milan," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.46,9.19,urban,86,,CMB,Larsen162,2010,2009,winter,2.0,,29.0,,11.0,58.0
+Brescia," 192,700 ",Italy,ITA,Southwestern Europe,EU,45.54,10.22,urban,87,,CMB,Larsen162,2010,2007,winter,,4.0,26.0,,10.0,60.0
+Brescia," 192,700 ",Italy,ITA,Southwestern Europe,EU,45.54,10.22,urban,87,,PMF,Larsen162,2010,2007,winter,,24.0,24.0,,11.1,40.9
+Milan," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.46,9.19,urban,91,,PMF,Larsen162,2010,2007,winter,,10.5,33.0,,12.0,44.5
+Milan," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.46,9.19,urban,91,,CMB,Larsen162,2010,2007,winter,2.0,,28.0,,9.0,61.0
+Milan," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.46,9.19,urban,94,,PMF,Larsen162,2010,2007,winter,,5.0,49.0,,9.2,36.8
+Milan," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.46,9.19,urban,97,,CMB,Larsen162,2010,2007,winter,,,38.0,,9.0,53.0
+Milano," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.47,9.19,urban,,45,APCFA,Marcazzan166,2003,2001,year,,14.3,46.6,,,39.1
+Milano," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.47,9.19,urban,63,,APCFA,Marcazzan166,2003,2001,year,,14.5,27.1,7.6,,50.8
+Mount Cimone, < 50 ,Italy,ITA,Southwestern Europe,EU,44.19,10.70,remote,16,,APCS,Marenco167,2006,2004,summer,0.5,25.0,,,,74.5
+Venice," 270,600 ",Italy,ITA,Southwestern Europe,EU,45.43,12.34,urban-harb,19,,FA,Masiol168,2010,2007,summer,12.0,34.0,17.0,14.0,,23.0
+Milan," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.47,9.19,urban traffic,39,,CMB,Mossetti169,2005,-,-,,15.0,56.0,3.0,,26.0
+Genoa," 608,826 ",Italy,ITA,Southwestern Europe,EU,44.41,8.93,urban,,20,PMF,Mazzei170,2008,2005,summer,8.5,13.0,19.5,25.8,,33.2
+Genoa," 608,826 ",Italy,ITA,Southwestern Europe,EU,44.41,8.93,urban,37,,PMF,Mazzei170,2008,2002/5,year,11.9,16.8,23.2,22.4,,25.7
+Catania," 294,525 ",Italy,ITA,Southwestern Europe,EU,37.50,15.09,urban,35,,MC,Rinaldi181,2007,2005,spring,15.0,35.0,30.0,,,20.0
+Venice," 270,600 ",Italy,ITA,Southwestern Europe,EU,45.43,12.34,urban-harb,,17,PCA,Stortini187,2009,2007,year,,8.9,31.0,44.0,,16.1
+Capannori," 45,000 ",Italy,ITA,Southwestern Europe,EU,43.84,10.57,urban,20,,PMF,Lucarelli212,2011,2005/2006,year,5.0,18.0,25.0,,23.0,29.0
+Milano," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.52,9.21,urban,31,,CMB,Perrone214,2011,2007/2008,summer,1.6,0.6,32.5,,1.2,64.1
+Milano," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.52,9.21,urban,73,,CMB,Perrone214,2011,2007/2008,winter,0.7,1.1,23.6,,18.9,55.7
+Milano," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.52,9.21,urban,,30,CMB,Perrone214,2011,2007/2008,spring,0.7,0.6,19.0,,4.0,75.7
+Milano," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.52,9.21,urban,,17,CMB,Perrone214,2011,2007/2008,summer,1.2,0.6,27.6,,1.2,69.5
+Milano," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.52,9.21,urban,,38,CMB,Perrone214,2011,2007,fall,0.3,3.7,23.6,,29.4,43.1
+Milano," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.52,9.21,urban,,57,CMB,Perrone214,2011,2007/2008,winter,0.2,1.6,23.3,,26.0,49.0
+Milano," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.52,9.21,urban,,17,CMB,Perrone214,2011,2007/2008,spring,1.2,0.6,6.5,,15.9,75.9
+Milano," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.14,10.44,rural,,13,CMB,Perrone214,2011,2007/2008,summer,0.8,0.8,11.5,,3.1,83.9
+Milano," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.14,10.44,rural,,26,CMB,Perrone214,2011,2007/2008,fall,,1.2,7.3,,30.8,60.8
+Milano," 1,316,000 ",Italy,ITA,Southwestern Europe,EU,45.14,10.44,rural,,32,CMB,Perrone214,2011,2007/2008,winter,,,7.2,,28.7,64.1
+Bobadela, 487 ,Portugal,PRT,Southwestern Europe,EU,38.81,-9.10,suburb-ind,,15,APCS,"Almeida126,127",2005,2001,year,8.0,16.0,22.0,22.0,,32.0
+Bobadela, 487 ,Portugal,PRT,Southwestern Europe,EU,38.81,-9.10,suburb-ind,16,,APCS,"Almeida126,127",2005,2001,year,47.0,20.0,,18.0,,15.0
+Lisbon," 474,697 ",Portugal,PRT,Southwestern Europe,EU,38.71,-9.14,suburban,32,,APCS,"Almeida126,127",2006,????,year,29.9,18.0,,19.7,,32.4
+Coimbra," 101,000 ",Portugal,PRT,Southwestern Europe,EU,40.21,-8.43,urban,,18,PCFA,Harrison218,1997,1992/1993,year,15.0,37.0,24.0,,,24.0
+Lisbon," 474,697 ",Potugal,PRT,Southwestern Europe,EU,38.71,-9.14,suburban,,14,APCS,"Almeida126,127",2006,????,year,8.0,16.0,22.0,22.0,,32.0
+Barcelona," 1,620,000 ",Spain,ESP,Southwestern Europe,EU,41.39,2.17,urban,,28,PMF-ME,Amato128�131,2009,2003/7,year,3.0,13.0,40.0,9.0,,35.0
+Barcelona," 1,620,000 ",Spain,ESP,Southwestern Europe,EU,41.39,2.17,urban,40,,PMF-ME,Amato128�131,2009,2003/7,year,10.0,28.0,46.0,7.0,,9.0
+El Prat Airport Barcelona," 1,620,000 ",Spain,ESP,Southwestern Europe,EU,41.30,2.08,mobile-airp,49,,APCS,Amato128�131,2010,2007,fall,3.0,33.0,31.0,,10.0,23.0
+Poblado Lepanto," 567,433 ",Spain,ESP,Southwestern Europe,EU,37.89,-4.77,urban,,18,PMF,Amato128�131,2014,2009/2010,year,12.0,8.0,33.0,19.0,,28.0
+Campillo," 2,318 ",Spain,ESP,Southwestern Europe,EU,37.05,-4.86,rural,,19,PMF,Amato128�131,2014,2009,year,24.0,12.0,27.0,20.0,,17.0
+La Linea," 64,645 ",Spain,ESP,Southwestern Europe,EU,36.16,-5.35,urban-industrial,,20,PMF,Amato128�131,2014,2003/2010,year,9.0,5.0,25.0,14.0,,47.0
+Los Barrios," 23,141 ",Spain,ESP,Southwestern Europe,EU,36.18,-5.48,urban-industrial,,22,PMF,Amato128�131,2014,2003/2010,year,12.0,7.0,26.0,9.0,,46.0
+Carranque," 4,473 ",Spain,ESP,Southwestern Europe,EU,36.72,-4.43,traffic,,23,PMF,Amato128�131,2014,2009/2010,year,10.0,12.0,33.0,12.0,,33.0
+Algeciras," 116,917 ",Spain,ESP,Southwestern Europe,EU,36.13,-5.45,urban-industrial,,25,PMF,Amato128�131,2014,2003/2004,year,6.0,4.0,26.0,11.0,,53.0
+Principes," 2,257 ",Spain,ESP,Southwestern Europe,EU,37.38,-6.26,traffic,,31,PMF,Amato128�131,2014,2009,year,31.0,12.0,,35.0,,22.0
+Alcala de Guadair," 73,765 ",Spain,ESP,Southwestern Europe,EU,37.34,-5.83,urban,,31,PMF,Amato128�131,2014,2009,year,5.0,9.0,41.0,,,45.0
+Granada," 239,017 ",Spain,ESP,Southwestern Europe,EU,37.20,-3.61,traffic,,37,PMF,Amato128�131,2014,2009/2010,year,,6.0,85.0,,,9.0
+Campillo," 2,318 ",Spain,ESP,Southwestern Europe,EU,37.05,-4.86,rural,15,,PMF,Amato128�131,2014,2010,year,8.0,17.0,32.0,19.0,,24.0
+Los Barrios," 23,141 ",Spain,ESP,Southwestern Europe,EU,36.18,-5.48,urban-industrial,30,,PMF,Amato128�131,2014,2003/2010,year,11.0,22.0,28.0,6.0,,33.0
+Poblado Lepanto," 567,433 ",Spain,ESP,Southwestern Europe,EU,37.89,-4.77,urban,36,,PMF,Amato128�131,2014,2007/2010,year,13.0,17.0,45.0,11.0,,14.0
+La Linea," 64,645 ",Spain,ESP,Southwestern Europe,EU,36.16,-5.35,urban-industrial,37,,PMF,Amato128�131,2014,2003/2010,year,17.0,19.0,30.0,8.0,,26.0
+Algeciras," 116,917 ",Spain,ESP,Southwestern Europe,EU,36.13,-5.45,urban-industrial,38,,PMF,Amato128�131,2014,2003/2004,year,12.0,14.0,33.0,5.0,,36.0
+Puente Mayorga," 2,245 ",Spain,ESP,Southwestern Europe,EU,36.18,-5.39,urban-industrial,39,,PMF,Amato128�131,2014,2004/2010,year,12.0,22.0,32.0,7.0,,27.0
+Principes," 2,257 ",Spain,ESP,Southwestern Europe,EU,37.38,-6.26,traffic,41,,PMF,Amato128�131,2014,2007/2010,year,35.0,16.0,,32.0,,17.0
+Alcala de Guadaira," 73,765 ",Spain,ESP,Southwestern Europe,EU,37.34,-5.83,urban,41,,PMF,Amato128�131,2014,2007/2010,year,10.0,15.0,46.0,,,29.0
+Carranque," 4,473 ",Spain,ESP,Southwestern Europe,EU,36.72,-4.43,traffic,43,,PMF,Amato128�131,2014,2007/2010,year,16.0,25.0,40.0,7.0,,12.0
+Granada Norte," 239,017 ",Spain,ESP,Southwestern Europe,EU,37.20,-3.61,traffic,44,,PMF,Amato128�131,2014,2007/2010,year,,11.0,77.0,,,12.0
+Santander," 179,921 ",Spain,ESP,Southwestern Europe,EU,43.47,-3.81,urban,,13,PCA,Arruti135,2011,2008/9,year,,,24.0,40.0,,36.0
+Zaragoza," 679,624 ",Spain,ESP,Southwestern Europe,EU,41.66,0.88,urban,32,,APCS,Callen140,2009,2003/4,year,4.0,56.0,8.0,15.0,5.0,12.0
+Zaragoza," 679,624 ",Spain,ESP,Southwestern Europe,EU,41.66,0.88,urban,32,,PMF,Callen140,2009,2003/4,year,7.0,40.0,7.0,26.0,6.0,14.0
+Zaragoza," 679,624 ",Spain,ESP,Southwestern Europe,EU,41.66,0.88,urban,32,,UNMIX,Callen140,2009,2003/4,year,10.0,65.0,15.0,9.0,,1.0
+Madrid," 3,234 ",Spain,ESP,Southwestern Europe,EU,40.42,-3.70,urban,50,,PMF,Karanasiou158�160,2011,2009,summer,,19.0,60.0,,,21.0
+Puertollano," 51,997 ",Spain,ESP,Southwestern Europe,EU,38.69,-4.11,urban-industrial,43,,PCA,"Moreno171,172",2006,2004/5,year,6.0,36.0,,48.0,,10.0
+Santander," 178,475 ",Spain,ESP,Southwestern Europe,EU,43.47,-3.81,urban,,18,PMF,"Moreno171,172",2011,2007/8,year,13.0,1.0,37.0,7.0,,42.0
+Santander," 178,475 ",Spain,ESP,Southwestern Europe,EU,43.47,-3.81,urban,34,,PMF,"Moreno171,172",2011,2007/8,year,20.0,3.0,29.0,4.0,,44.0
+Torrelavega," 55,297 ",Spain,ESP,Southwestern Europe,EU,43.35,-3.06,urban,34,,PMF,"Moreno171,172",2011,2007/8,year,12.0,14.0,35.0,3.0,,36.0
+Santa Ana, 282 ,Spain,ESP,Southwestern Europe,EU,37.66,-1.37,suburban,,22,APCS,Negral173,2008,2004/5,year,2.0,8.0,40.0,,,50.0
+Bastarreche Square Puerto," 32,983 ",Spain,ESP,Southwestern Europe,EU,37.82,-0.98,urban,47,,APCS,Negral173,2008,2004/5,year,3.0,25.0,20.0,6.0,,46.0
+Elche," 230,587 ",Spain,ESP,Southwestern Europe,EU,38.27,-0.71,urban,33,,PMF,Nicolas174,2008,2004/5,year,11.0,28.7,13.0,,,47.3
+Alcora Castello," 10,821 ",Spain,ESP,Southwestern Europe,EU,39.99,-0.04,urban-industrial,34,,CMB,"Pandolfi175,176",2008,2002/5,year,,16.0,10.0,16.0,,58.0
+Alcora Castello," 10,821 ",Spain,ESP,Southwestern Europe,EU,39.99,-0.04,urban-industrial,34,,PMF,"Pandolfi175,176",2008,2002/5,year,2.3,36.7,13.0,8.2,,39.8
+Los Barrios," 23,141 ",Spain,ESP,Southwestern Europe,EU,36.19,-5.49,urban,,22,PMF,"Pandolfi175,176",2010,2003/7,year,4.6,14.9,24.5,14.3,,41.7
+La Linea," 64,645 ",Spain,ESP,Southwestern Europe,EU,36.16,-5.35,urban,,23,PMF,"Pandolfi175,176",2010,2003/7,year,3.9,8.8,27.8,16.8,,42.7
+Algeciras," 116,917 ",Spain,ESP,Southwestern Europe,EU,36.13,-5.45,urban,,24,PMF,"Pandolfi175,176",2010,2003/7,year,4.1,8.5,35.9,11.2,,40.3
+Los Barrios," 23,141 ",Spain,ESP,Southwestern Europe,EU,36.19,-5.49,urban,32,,PMF,"Pandolfi175,176",2010,2003/7,year,8.0,22.8,19.6,11.0,,38.6
+Algeciras," 116,917 ",Spain,ESP,Southwestern Europe,EU,36.13,-5.45,urban,37,,PMF,"Pandolfi175,176",2010,2003/7,year,9.2,19.6,24.9,8.1,,38.2
+Puente," 2,245 ",Spain,ESP,Southwestern Europe,EU,36.18,-5.39,industrial,41,,PMF,"Pandolfi175,176",2010,2003/7,year,8.5,23.5,17.2,12.8,,38.0
+La Linea," 64,645 ",Spain,ESP,Southwestern Europe,EU,36.16,-5.35,urban,41,,PMF,"Pandolfi175,176",2010,2003/7,year,10.3,22.9,20.0,11.0,,35.8
+Montseny, 286 ,Spain,ESP,Southwestern Europe,EU,41.76,-2.39,remote,,14,PMF,Pey177,2009,2002/7,year,,13.0,,27.0,,60.0
+Montseny, 286 ,Spain,ESP,Southwestern Europe,EU,41.76,-2.39,remote,16,,PMF,Pey177,2009,2002/7,year,,29.0,,18.0,,53.0
+Barcelona," 1,620,000 ",Spain,ESP,Southwestern Europe,EU,41.39,2.17,urban,50,,PCA,Querol178�180,2001,1999/2000,year,11.0,36.0,22.0,,,31.0
+Barcelona," 1,620,000 ",Spain,ESP,Southwestern Europe,EU,41.39,2.17,urban,,35,PCA,Querol178�180,2002,1999/2001,year,,26.0,26.0,7.0,,41.0
+Huelva," 148,568 ",Spain,ESP,Southwestern Europe,EU,37.26,-6.95,urban,37,,FA,Querol178�180,2002,1999-2000,year,15.0,47.0,,16.0,,22.0
+Bemantes," 228,900 ",Spain,ESP,Southwestern Europe,EU,43.34,-8.17,rural,19,,FA,Querol178�180,2004,2001,year,13.0,,27.0,15.0,,45.0
+Llodio," 18,397 ",Spain,ESP,Southwestern Europe,EU,43.15,-2.96,urban,32,,FA,Querol178�180,2004,2001,year,7.0,26.0,22.0,,,45.0
+Alcobendas," 111,040 ",Spain,ESP,Southwestern Europe,EU,40.55,-3.63,urban,32,,FA,Querol178�180,2004,2001,year,6.0,31.0,34.0,,,29.0
+Tarragona," 155,536 ",Spain,ESP,Southwestern Europe,EU,41.12,1.25,urban,37,,FA,Querol178�180,2004,2001,year,9.0,32.0,30.0,,,29.0
+Huelva," 148,568 ",Spain,ESP,Southwestern Europe,EU,37.26,-6.95,urban,38,,FA,Querol178�180,2004,2001,year,5.0,27.0,33.0,22.0,,13.0
+Canary Islands," 2,118,000 ",Spain,ESP,Southwestern Europe,EU,28.13,-16.54,urban,44,,FA,Querol178�180,2004,2001,year,35.0,33.0,5.0,,,27.0
+Madrid," 3,234 ",Spain,ESP,Southwestern Europe,EU,40.42,-3.70,urban,48,,APCFA,"Salvador182,183",2004,1999/2000,year,3.0,26.0,48.0,,,23.0
+Bemantes," 228,900 ",Spain,ESP,Southwestern Europe,EU,43.34,-8.17,rural,,13,FA,"Salvador182,183",2007,2001,year,2.0,15.0,35.0,10.0,,38.0
+Bemantes," 228,900 ",Spain,ESP,Southwestern Europe,EU,43.34,-8.17,rural,19,,FA,"Salvador182,183",2007,2001,year,14.0,36.0,25.0,17.0,,8.0
+Bailen," 17,593 ",Spain,ESP,Southwestern Europe,EU,38.10,-3.77,urban-industrial,,38,PCA,"Sanchez184,185",2010,2005/6,year,,24.0,,74.0,,2.0
+Bailen," 17,593 ",Spain,ESP,Southwestern Europe,EU,38.10,-3.77,urban-industrial,61,,PCA,"Sanchez184,185",2010,2005/6,year,,44.0,,50.0,,6.0
+Huelva," 148,568 ",Spain,ESP,Southwestern Europe,EU,37.26,-6.95,urban,,37,APCS,"Sanchez184,185",2007,2000/1,year,7.0,24.0,35.0,,,34.0
+Paterna," 3,611 ",Spain,ESP,Southwestern Europe,EU,37.42,-6.40,rural,29,,APCS,"Sanchez184,185",2007,2000/1,year,4.7,39.3,,18.6,,37.4
+Trigueros," 7,477 ",Spain,ESP,Southwestern Europe,EU,37.38,-6.83,rural,33,,APCS,"Sanchez184,185",2007,2000/1,year,4.5,47.0,,17.7,,30.8
+Sant Vincent," 178,475 ",Spain,ESP,Southwestern Europe,EU,38.39,-0.53,urban-industrial,38,,PMF,Santacatalina186,2010,2005/8,year,6.0,32.0,23.0,13.5,,25.5
+Agost," 4,766 ",Spain,ESP,Southwestern Europe,EU,38.44,-0.64,urban-industrial,41,,PMF,Santacatalina186,2010,2005/8,year,6.0,37.0,15.0,13.5,,28.5
+Albacete," 172,472 ",Spain,ESP,Southwestern Europe,EU,39.00,-1.86,urban,,14,APCS,Viana191�194,2007,2000/1,year,3.0,31.0,39.0,,,27.0
+Huelva," 148,568 ",Spain,ESP,Southwestern Europe,EU,37.26,-6.95,urban,,18,APCS,Viana191�194,2007,2000/1,year,4.9,51.2,,22.0,,21.9
+Oviedo," 225,973 ",Spain,ESP,Southwestern Europe,EU,43.36,-5.84,urban,,18,APCS,Viana191�194,2007,2000/1,year,4.0,24.0,41.0,,,31.0
+Galdakao," 29,130 ",Spain,ESP,Southwestern Europe,EU,43.23,-2.85,rural,,18,APCS,Viana191�194,2007,2000/1,year,3.0,13.0,44.0,,,40.0
+Barcelona," 1,620,000 ",Spain,ESP,Southwestern Europe,EU,41.39,2.17,urban,,23,APCS,Viana191�194,2007,2000/1,year,5.0,20.0,53.0,,,22.0
+Alcora Castello," 10,821 ",Spain,ESP,Southwestern Europe,EU,39.99,-0.04,urban-industrial,34,,CMB,Viana191�194,2008,2002/5,year,,18.0,14.7,17.0,,50.3
+Alcora Castello," 10,821 ",Spain,ESP,Southwestern Europe,EU,39.99,-0.04,urban-industrial,34,,APCS,Viana191�194,2008,2002/5,year,,31.0,10.0,17.0,,42.0
+Alcora Castello," 10,821 ",Spain,ESP,Southwestern Europe,EU,39.99,-0.04,urban-industrial,34,,PMF,Viana191�194,2008,2002/5,year,3.0,53.0,13.0,6.0,,25.0
+Melilla," 73,460 ",Spain,ESP,Southwestern Europe,EU,35.29,-2.94,urban,40,,PMF,Viana191�194,2009,2007/8,year,15.0,31.0,28.0,2.0,,24.0
+Atazar, 98 ,Spain,ESP,Southwestern Europe,EU,40.93,-3.47,urban,41,,PMF,Viana191�194,2010,2007,year,7.0,31.0,35.0,9.0,,18.0
+Alsasua," 7,691 ",Spain,ESP,Southwestern Europe,EU,42.90,-2.17,urban,30,,PMF,Zabalza203,2006,2002/3,year,12.0,35.0,12.0,3.0,,38.0
+Pamplona," 197,000 ",Spain,ESP,Southwestern Europe,EU,42.82,-1.64,urban,26,,PMF,Aldabe208,2011,2009,year,8.0,31.2,15.3,,,45.5
+Pamplona," 197,000 ",Spain,ESP,Southwestern Europe,EU,42.82,-1.64,urban,,15,PMF,Aldabe208,2011,2009,year,2.5,8.4,7.5,,,81.6
+Pamplona," 197,000 ",Spain,ESP,Southwestern Europe,EU,42.82,-1.64,urban,28,,PMF,Aldabe208,2011,2009,year,7.0,38.5,15.7,,,38.8
+Pamplona," 197,000 ",Spain,ESP,Southwestern Europe,EU,42.82,-1.64,urban,,17,PMF,Aldabe208,2011,2009,year,2.8,9.1,8.4,,,79.8
+Bertiz, 628 ,Spain,ESP,Southwestern Europe,EU,43.14,-1.61,rural,15,,PMF,Aldabe208,2011,2009,year,16.8,35.7,,,,47.5
+Izana," 28,900 ",Spain,ESP,Southwestern Europe,EU,28.31,-16.50,remote,29,,PMF,Rodriguez211,2011,2002/2008,year,,75.0,,8.0,,17.0
+San Vicente del Reaspeig," 55,100 ",Spain,ESP,Southwestern Europe,EU,38.42,-0.52,urban,41,,PMF,Yubero213,2011,2005/2006,year,16.6,33.5,19.5,8.6,,21.8
+Ahvaz," 1,112,000 ",Iran,IRN,Middle East,ME,31.32,48.67,urban,372,,PMF,Sowlat55,2013,2010/2011,year,8.0,41.5,17.0,19.0,5.0,9.5
+Kuwait City," 32,403 ",Kuwait,KWT,Middle East,ME,29.37,47.98,urban,,50,PMF,Alolayan53,2013,2004/2005,year,,54.0,16.0,30.0,,0.0
+Jeddah City," 2,801,000 ",Saudi Arabia,SAU,Middle East,ME,21.55,39.17,urban,,28,FA,Khodeir54,2012,2011,summer,,51.0,8.4,23.0,,17.6
+Jeddah City," 2,801,000 ",Saudi Arabia,SAU,Middle East,ME,21.55,39.17,urban,87,,FA,Khodeir54,2012,2011,summer,9.0,39.1,,31.0,,20.9
+Antalya," 1,000,031 ",Turkey,TUR,Turkey,ME,36.88,30.71,rural,11,,PMF,Dogan81,2008,1992/3,year,7.3,49.6,,9.9,,33.2
+Erdemli," 50,000 ",Turkey,TUR,Turkey,ME,36.61,34.32,urban,38,,FA,"Ko�ak82,83",2009,2001/2,year,33.0,28.0,,10.0,,29.0
+Erdemli," 50,000 ",Turkey,TUR,Turkey,ME,36.61,34.32,urban,38,,PMF,"Ko�ak82,83",2009,2001/2,year,32.0,31.0,,7.0,,30.0
+Izmir," 4,005,000 ",Turkey,TUR,Turkey,ME,38.42,27.13,suburban,,24,PMF,"Yatkin84,85",2008,2004/5,year,4.0,9.0,12.0,37.0,,38.0
+Izmir," 4,005,000 ",Turkey,TUR,Turkey,ME,38.42,27.13,urban,,64,PMF,"Yatkin84,85",2008,2004/5,year,14.0,1.0,15.0,22.0,,48.0
+Izmir," 4,005,000 ",Turkey,TUR,Turkey,ME,38.42,27.13,suburban,47,,PMF,"Yatkin84,85",2008,2004/5,year,3.0,11.6,16.4,30.0,,39.0
+Halifax," 372,659 ",Canada,CAN,Canada,NA,44.65,-63.57,urban,,8,PMF,"Heon-Jeong6,7",2011,2006/2008,year,18.3,3.8,14.2,17.1,,46.6
+Edmonton," 730,732 ",Canada,CAN,Canada,NA,53.49,-113.47,urban,,10,PMF,"Heon-Jeong6,7",2011,2006/2008,year,2.5,,19.4,7.5,12.0,58.6
+Montreal," 1,621,000 ",Canada,CAN,Canada,NA,45.52,-73.56,urban,,12,PMF,"Heon-Jeong6,7",2011,2003/2007,year,4.4,3.8,17.8,5.5,6.4,62.1
+Toronto," 2,503,000 ",Canada,CAN,Canada,NA,43.66,-79.40,urban-traffic,,12,PMF,"Heon-Jeong6,7",2011,2004/2007,year,1.8,1.9,13.6,6.2,1.1,75.4
+Windsor," 216,463 ",Canada,CAN,Canada,NA,42.29,-83.07,urban,,15,PMF,"Heon-Jeong6,7",2011,2004/2008,year,2.3,5.3,13.9,11.3,,67.2
+British Columbia," 4,610,000 ",Canada,CAN,Canada,NA,53.76,-127.56,rural,,12,PMF,"Heon-Jeong6,7",2008,2004/2006,year,1.0,8.0,13.0,13.0,56.0,9.0
+Toronto," 2,503,000 ",Canada,CAN,Canada,NA,43.65,-79.38,urban,,13,PMF,Lee8,2003,2000/2001,year,8.0,,10.0,20.1,,61.9
+Colima," 650,055 ",Mexico,MEX,Mexico,NA,19.21,-103.80,rural,48,,APCS,Campos-Ramos49,2011,2006/2007,year,,49.0,17.0,24.0,,10.0
+Tijuana," 1,301,000 ",Mexico,MEX,Mexico,NA,32.50,-116.94,urban,,19,PMF,Minguillon50,2014,2010,summer,15.6,,13.9,2.2,38.2,30.2
+Mexico City," 8,851,000 ",Mexico,MEX,Mexico,NA,19.88,-99.15,indu-residential,,50,CMB,Mugica51,2009,2006,spring,,26.6,42.0,10.0,,21.4
+Salamanca," 152,048 ",Mexico,MEX,Mexico,NA,20.58,-101.20,urban,,45,PMF,Murillo52,2012,2006/2007,year,,16.3,12.9,18.3,,52.6
+Washington," 632,000 ",USA,USA,USA,NA,38.88,-77.03,urban,,17,ME,Begum86,2005,1999/2001,year,3.0,1.6,22.5,57.0,,16.0
+Baltimore-Wash," 621,000 ",USA,USA,USA,NA,39.10,-76.74,suburban,,13,UNMIX,"Chen87,88",2002,1999-2001,year,,,13.8,1.5,12.3,72.4
+San Joaquin Valley," 704,000 ",USA,USA,USA,NA,34.08,-117.87,rural,,41,PMF,"Chen87,88",2007,2000/2001,year,,5.0,10.0,9.0,23.0,53.0
+San Joaquin Valley," 704,000 ",USA,USA,USA,NA,34.08,-117.87,rural,,41,UNMIX,"Chen87,88",2007,2000/2001,year,,3.0,15.0,,24.0,58.0
+Bayland Park," 73,238 ",USA,USA,USA,NA,29.70,-95.50,urban,,9,PMF,Chiou89�91,2008,2003/2005,year,4.3,2.2,6.8,19.2,3.2,64.3
+Orange," 18,643 ",USA,USA,USA,NA,30.19,-93.87,urban,,11,PMF,Chiou89�91,2008,2003/2005,year,5.1,3.0,6.8,15.7,11.1,58.3
+McDonald Observator," 1,201 ",USA,USA,USA,NA,30.67,-104.02,remote,,3,PMF,Chiou89�91,2009,2003/2005,year,,,10.6,14.5,,74.9
+Big Bend Park, < 50 ,USA,USA,USA,NA,29.20,-103.27,remote,,5,PMF,Chiou89�91,2009,2003/2006,year,,2.7,14.2,6.4,,76.7
+Bounday Waters, < 50 ,USA,USA,USA,NA,47.95,-91.50,remote,,5,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,0.6,3.7,40.7,2.5,1.3,51.3
+Acadia Natl Pk, < 50 ,USA,USA,USA,NA,44.38,-68.26,remote,,8,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,5.3,1.3,52.0,5.3,4.0,32.1
+Lye Brook, < 50 ,USA,USA,USA,NA,43.15,-73.13,remote,,8,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,1.3,6.5,5.2,9.2,31.5,46.3
+Brigantine," 9,420 ",USA,USA,USA,NA,39.47,-74.45,rural,,12,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,6.0,0.9,30.2,13.8,,49.2
+Shenandoah," 2,373 ",USA,USA,USA,NA,38.52,-78.43,remote,,12,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,2.5,1.7,27.0,,29.7,39.1
+Dolly Sods, < 50 ,USA,USA,USA,NA,39.11,-79.43,remote,,13,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,9.4,6.2,35.4,3.1,5.5,40.4
+Great Smoky Mount, < 50 ,USA,USA,USA,NA,35.63,-83.64,remote,,13,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,1.5,4.4,49.2,3.7,5.2,36.0
+Jeff James River, < 50 ,USA,USA,USA,NA,37.67,-79.43,remote,,15,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,,3.4,25.0,8.2,15.0,48.4
+Mammoth Cave, < 50 ,USA,USA,USA,NA,37.13,-86.15,remote,,16,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,1.9,5.0,38.1,5.0,18.8,31.3
+Washington DC," 632,000 ",USA,USA,USA,NA,38.88,-77.03,urban,,18,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,1.7,2.2,36.9,10.0,1.7,47.6
+Bondville, 443 ,USA,USA,USA,NA,40.05,-88.37,remote,,19,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,,0.5,1.6,0.5,4.3,93.1
+Connecticut Hill, 100 ,USA,USA,USA,NA,42.40,-76.65,remote,,19,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,,,7.9,,,92.1
+M.K.Goddard, 100 ,USA,USA,USA,NA,41.43,-84.14,remote,,20,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,,42.6,21.5,3.6,2.0,30.4
+Livonia, 128 ,USA,USA,USA,NA,38.53,-86.26,rural,,20,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,,38.8,19.4,10.4,,31.4
+Quaker City, 502 ,USA,USA,USA,NA,39.94,-81.34,rural,,21,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,,42.9,9.8,,,47.4
+Arendtsville, 941 ,USA,USA,USA,NA,39.92,-77.31,urban,,23,PMF-UNMIX,"Coutant92,93",2002,1998/2000,year,,,8.9,,,91.1
+Houston," 2,160,000 ",USA,USA,USA,NA,29.90,-95.33,urban,,14,PMF-UNMIX,"Coutant92,93",2003,2001/2002,year,2.0,5.6,43.6,6.3,,42.4
+Milwaukee," 598,000 ",USA,USA,USA,NA,43.06,-87.91,urban,,15,PMF-UNMIX,"Coutant92,93",2003,2001/2002,year,,2.1,17.2,18.6,,62.1
+Bronks," 1,385,000 ",USA,USA,USA,NA,40.86,-73.88,urban,,16,PMF-UNMIX,"Coutant92,93",2003,2001/2002,year,1.9,6.2,15.5,18.6,,57.8
+Charlotte," 775,000 ",USA,USA,USA,NA,35.24,-80.79,urban,,16,PMF-UNMIX,"Coutant92,93",2003,2001/2002,year,0.6,3.7,23.8,16.0,,55.9
+Washington," 632,000 ",USA,USA,USA,NA,38.88,-77.03,urban,,17,PMF-UNMIX,"Coutant92,93",2003,2001/2002,year,,8.9,28.1,,6.5,56.5
+St.Louis," 318,000 ",USA,USA,USA,NA,38.66,-90.20,urban,,17,PMF-UNMIX,"Coutant92,93",2003,2001/2002,year,,8.1,16.8,12.8,,62.3
+Indianapolis," 844,000 ",USA,USA,USA,NA,39.81,-86.11,urban,,17,PMF-UNMIX,"Coutant92,93",2003,2001/2002,year,2.9,2.8,18.4,,1.7,74.2
+Birmingham," 212,000 ",USA,USA,USA,NA,33.55,-86.82,urban,,20,PMF-UNMIX,"Coutant92,93",2003,2001/2002,year,,6.6,33.3,7.7,,52.4
+Las Vegas," 596,000 ",USA,USA,USA,NA,36.12,-115.18,urban,,17,CMB,Green94,2013,2003,year,,,69.5,,14.8,15.7
+Detroit," 701,000 ",USA,USA,USA,NA,42.33,-83.05,urban,,17,PMF,Hammond95,2008,1999/2002,year,,,33.0,4.0,,63.0
+Pullman," 29,799 ",USA,USA,USA,NA,46.73,-117.18,urban,,14,CMB,Jimenez96,2006,2000,fall,,38.0,2.0,,35.0,25.0
+Pullman," 29,799 ",USA,USA,USA,NA,46.73,-117.18,urban,,14,PMF,Jimenez96,2006,2000,fall,,57.0,,,17.0,26.0
+Lennox," 22,753 ",USA,USA,USA,NA,33.94,-118.35,urban,45,,CMB,Kim97�103,2000,1986,year,5.5,,43.4,,,51.1
+Long Beach," 467,882 ",USA,USA,USA,NA,33.80,-118.16,urban,50,,CMB,Kim97�103,2000,1986,year,3.0,8.2,50.3,,,38.5
+Anaheim," 336,265 ",USA,USA,USA,NA,33.84,-117.91,urban,53,,CMB,Kim97�103,2000,1986,year,4.2,,54.8,,,41.0
+Los Angeles," 3,858,000 ",USA,USA,USA,NA,34.05,-118.24,urban,60,,CMB,Kim97�103,2000,1986,year,2.8,9.9,44.7,,,42.6
+Rubidoux," 34,280 ",USA,USA,USA,NA,34.00,-117.41,urban,88,,CMB,Kim97�103,2000,1986,year,,9.2,38.9,,,51.9
+Spokane," 209,525 ",USA,USA,USA,NA,47.67,-117.41,residential,,12,PMF,Kim97�103,2002,1995/1997,year,,9.1,10.7,9.1,43.8,27.3
+Atlanta," 443,000 ",USA,USA,USA,NA,33.78,-84.41,urban,,18,PMF,Kim97�103,2002,1998/200,year,,1.0,22.0,2.7,11.0,63.3
+Washington DC," 632,000 ",USA,USA,USA,NA,38.88,-77.03,urban,,18,PMF,Kim97�103,2003,1998/2000,year,2.2,2.2,23.4,6.1,,66.1
+Atlanta," 443,000 ",USA,USA,USA,NA,33.78,-84.41,urban,,18,ME,Kim97�103,2003,1998/2000,year,,2.2,26.0,3.8,3.0,65.0
+Atlanta," 443,000 ",USA,USA,USA,NA,33.78,-84.41,urban,,18,PMF,Kim97�103,2003,1998/2000,year,,2.7,16.9,6.5,7.0,66.9
+Great Smoky Mount, < 50 ,USA,USA,USA,NA,35.63,-83.64,remote,,13,PMF,Kim97�103,2006,1998/2003,year,,6.1,13.8,,0.1,80.0
+Brigantine," 9,420 ",USA,USA,USA,NA,39.47,-74.45,rural,,11,PMF,"Lee8,104",2003,1991/1999,year,7.9,1.7,15.7,4.4,,70.3
+Toronto OH," 2,503,000 ",USA,USA,USA,NA,40.46,-80.60,urban,,13,PMF,"Lee8,104",2008,2000/2001,year,7.8,10.8,14.9,1.6,,64.9
+Phoenix," 1,445,000 ",USA,USA,USA,NA,33.81,-112.81,urban,,13,CMB/UNMIX,Lewis105,2002,1995/1998,year,,22.0,49.0,,10.3,18.7
+New York," 8,377,000 ",USA,USA,USA,NA,40.73,-73.82,urban,,16,PMF,Li106,2004,2001,summer,10.5,,28.4,6.6,,54.5
+Centerville," 2,778 ",USA,USA,USA,NA,31.40,-86.88,rural,,13,PMF,Liu107,2006,2000/2001,year,,1.6,8.2,9.8,19.2,61.2
+Yorkville," 45,000 ",USA,USA,USA,NA,33.92,-85.00,rural,,14,PMF,Liu107,2006,2000/2001,year,,1.0,0.3,7.3,16.6,74.8
+Atlanta," 443,000 ",USA,USA,USA,NA,33.78,-84.41,urban,,17,PMF,Liu107,2006,2000/2001,year,,3.1,15.3,9.4,22.2,50.0
+Birmingham," 212,000 ",USA,USA,USA,NA,33.55,-86.82,urban,,18,PMF,Liu107,2006,2000/2001,year,,4.1,11.8,20.5,10.7,52.9
+McMurdo," 1,258 ",USA,USA,USA,NA,-77.85,166.68,remote,3,,CMB,Lowenthal108,1999,1995/1996,year,21.0,46.0,,17.0,,16.0
+Sacramento," 479,500 ",USA,USA,USA,NA,38.57,-121.49,urban,,40,CMB,Motallebi220,1999,1991/1996,winter,,1.2,24.5,,18.1,56.2
+Seattle," 634,535 ",USA,USA,USA,NA,47.34,-122.18,urban,,9,CMB,Maykut109,2003,1996/1999,year,6.7,4.5,43.8,6.7,15.7,22.6
+Seattle," 634,535 ",USA,USA,USA,NA,47.34,-122.18,urban,,9,UNMIX,Maykut109,2003,1996/1999,year,12.3,5.6,28.0,14.6,37.0,2.5
+Seattle," 634,535 ",USA,USA,USA,NA,47.34,-122.18,urban,,9,PMF,Maykut109,2003,1996/1999,year,3.4,13.4,22.4,10.1,28.0,22.7
+Detroit," 701,000 ",USA,USA,USA,NA,42.33,-83.05,urban,,14,PMF,Morishita110,2006,2000,summer,,,14.0,50.0,,36.0
+Baltimore," 621,000 ",USA,USA,USA,NA,39.29,-76.55,urban,,21,ME,Ogulei111,2005,2002,year,1.0,,27.0,26.0,,46.0
+Dearbon Detroit," 701,000 ",USA,USA,USA,NA,42.31,-83.15,industrial,,16,PMF,Pancras112,2013,2007,summer,,,20.7,7.7,,71.6
+Dearbon Detroit," 701,000 ",USA,USA,USA,NA,42.31,-83.15,industrial,,16,UNMIX,Pancras112,2013,2007,summer,,,28.2,17.4,,54.4
+Underhill," 2,980 ",USA,USA,USA,NA,44.53,-72.86,rural,,8,PMF,Poirot113,2001,1988/1995,year,,3.8,,20.2,15.2,60.8
+Underhill," 2,980 ",USA,USA,USA,NA,44.53,-72.86,rural,,8,UNMIX,Poirot113,2001,1988/1995,year,,2.4,,13.1,15.4,69.1
+Underhill," 2,980 ",USA,USA,USA,NA,44.53,-72.86,rural,,6,PMF,Polissar114,2001,1988/1995,year,1.6,4.7,,18.8,15.6,59.4
+Underhill," 2,980 ",USA,USA,USA,NA,44.53,-72.86,rural,,8,PMF,Song115,2001,1998/1995,year,1.3,3.8,,18.8,15.0,61.3
+Brigantine," 9,420 ",USA,USA,USA,NA,39.47,-74.45,rural,,11,PMF,Song115,2001,1992/1999,year,8.0,0.9,5.3,6.1,7.9,71.9
+Washington DC," 632,000 ",USA,USA,USA,NA,38.88,-77.03,urban,,18,PMF,Song115,2001,1988/1999,year,3.4,2.8,9.1,8.5,,76.2
+Corpus Christi," 312,195 ",USA,USA,USA,NA,27.81,-97.47,urban-industrial,,9,CMB,Subramoney116,2013,2003/2005,year,4.0,5.0,24.0,2.0,2.0,63.0
+Corpus Christi," 312,195 ",USA,USA,USA,NA,27.42,-97.29,rural,,9,CMB,Subramoney116,2013,2003/2005,year,15.0,4.0,26.0,,3.0,52.0
+San Jose," 982,000 ",USA,USA,USA,NA,37.35,-121.90,urban,,13,PMF,"Wang117,118",2013,2002/2012,year,13.3,,29.1,,24.3,33.3
+Fairbanks," 32,312 ",USA,USA,USA,NA,64.83,-147.71,urban,,13,CMB,"Wang117,118",2014,2005/2012,year,1.5,3.4,30.6,,40.5,24.0
+Fairbanks," 32,312 ",USA,USA,USA,NA,64.83,-147.71,urban,,25,CMB,Ward119,2012,2008/2011,year,,,7.6,,72.0,20.4
+San Augustine," 8,865 ",USA,USA,USA,NA,31.53,-94.11,rural,,10,PMF,Yuling120,2010,2005/2006,year,,,31.0,,22.0,47.0
+Dallas," 1,241,000 ",USA,USA,USA,NA,32.80,-96.77,urban,,11,PMF,Yuling120,2010,2005/2006,year,,,32.0,,16.0,52.0
+San Gorgonio, < 50 ,USA,USA,USA,NA,34.19,-116.90,remote,,16,PMF,Zhao121,2004,1988/2004,year,6.7,14.7,16.2,,,62.4
+Pittsburg," 306,000 ",USA,USA,USA,NA,40.44,-79.94,urban,,35,ME,"Zhou122,123",2004,2001,summer,,1.6,4.7,7.6,,86.1
+Lake Forest (Seattle)," 652,000 ",USA,USA,USA,NA,47.70,-122.33,residential,,10,PMF,Kim224,2008,2000-2005,year,12.0,2.3,26.5,,30.0,29.2
+Olive St. (Seattle)," 652,000 ",USA,USA,USA,NA,47.70,-122.33,urban-traffic,,10,PMF,Kim224,2008,2000-2005,year,9.5,9.4,22.0,8.5,7.1,43.5
+Beacon Hill (Seattle)," 652,000 ",USA,USA,USA,NA,47.70,-122.33,residential,,8,PMF,Kim224,2008,2000-2005,year,8.6,2.7,36.4,7.9,8.0,36.4
+Duwamish (Seattle)," 652,000 ",USA,USA,USA,NA,47.70,-122.33,industrial,,12,PMF,Kim224,2008,2000-2005,year,7.5,5.7,18.0,14.6,10.0,44.2
+Georgetown (Seattle)," 652,000 ",USA,USA,USA,NA,47.70,-122.33,industrial,,10,PMF,Kim224,2008,2000-2005,year,14.4,5.0,20.5,1.4,19.3,39.4
+Cleveland," 390,000 ",USA,USA,USA,NA,41.49,-81.69,urban,,19,ME,Zhou230,2009,2001-2003,year,,12.2,6.3,10.0,6.1,65.4
+Indianapolis," 852,000 ",USA,USA,USA,NA,39.81,-86.11,urban,,18,PMF,Zhao229,2006,2000-2003,year,,5.3,25.0,7.0,,62.7
+Birmingham," 212,000 ",USA,USA,USA,NA,33.55,-86.81,industrial,,20,PMF,Baumann221,2008,2001-2006,year,,,30.5,14.1,4.1,51.3
+El Cajon," 101,200 ",USA,USA,USA,NA,32.79,-116.96,rural,,14,PMF,Hasheminassab223,2014,2002-2007,year,,5.7,16.0,3.5,14.3,60.5
+Rubidoux," 34,200 ",USA,USA,USA,NA,34.00,-117.42,rural,,24,PMF,Hasheminassab223,2014,2002-2007,year,,4.2,16.8,1.0,5.4,72.6
+Los Angeles," 3,858,000 ",USA,USA,USA,NA,34.05,-118.24,urban,,15,PMF,Hasheminassab223,2014,2002-2007,year,,8.0,24.0,,10.0,58.0
+Simi Valley," 126,000 ",USA,USA,USA,NA,34.27,-118.78,urban,,13,PMF,Hasheminassab223,2014,2002-2007,year,,8.4,12.5,,11.5,67.6
+Bakersfield," 363,000 ",USA,USA,USA,NA,35.37,-119.13,urban,,20,PMF,Hasheminassab223,2014,2002-2007,year,1.3,8.0,11.3,1.5,10.0,68.0
+Fresno," 509,000 ",USA,USA,USA,NA,36.08,-119.77,urban,,20,PMF,Hasheminassab223,2014,2002-2007,year,4.5,,9.5,,25.0,61.0
+San Jose," 998,000 ",USA,USA,USA,NA,37.34,-121.88,urban,,13,PMF,Hasheminassab223,2014,2002-2007,year,,3.8,10.0,1.5,34.6,50.1
+Sacramento," 479,500 ",USA,USA,USA,NA,38.57,-121.49,urban,,14,PMF,Hasheminassab223,2014,2002-2007,year,1.0,5.0,23.9,,25.0,45.1
+St.Louis (Blair site)," 318,000 ",USA,USA,USA,NA,38.65,-90.19,urban,,16,PMF,Lee226,2006,2000-2003,year,,15.4,17.2,6.7,,60.7
+St.Louis (Arnold site)," 318,000 ",USA,USA,USA,NA,38.43,-90.36,suburban,,16,PMF,Lee226,2006,2001-2003,year,,3.2,26.1,17.4,2.4,50.9
+Rubidoux," 34,200 ",USA,USA,USA,NA,34.00,-117.42,rural,,20,PMF,Hasheminassab222,2014,2003-2005,year,14.3,4.4,18.1,,5.4,57.9
+Los Angeles," 3,858,000 ",USA,USA,USA,NA,34.05,-118.24,urban,,23,PMF,Hasheminassab222,2014,2003-2005,year,7.9,3.6,19.8,0.9,3.0,64.8
+Rubidoux," 34,200 ",USA,USA,USA,NA,34.00,-117.42,rural,,19,PMF,Kim225,2010,2003-2005,year,4.1,10.2,18.2,,10.3,57.2
+Los Angeles," 3,858,000 ",USA,USA,USA,NA,34.05,-118.24,urban,,24,PMF,Kim225,2010,2003-2005,year,10.6,6.6,15.8,2.3,6.0,58.7
+Long Beach," 467,882 ",USA,USA,USA,NA,33.80,-118.16,urban-harbor,,13,CMB,Miguillon227,2008,2007,winter,15.3,,34.6,,1.9,48.2
+Long Beach," 467,882 ",USA,USA,USA,NA,33.84,-117.91,urban-harbor,,16,CMB,Miguillon227,2008,2007,summer,10.9,,36.4,,,52.7
+Simi Valley," 126,000 ",USA,USA,USA,NA,34.27,-118.78,urban,,16,PMF,Kim228,2007,2001-2004,year,12.3,11.3,25.2,,,51.1
+Rubidoux," 34,200 ",USA,USA,USA,NA,34.00,-117.42,rural,,31,PMF,Kim228,2007,2001-2004,year,11.4,6.1,19.1,2.5,2.6,58.3
+Los Angeles," 3,858,000 ",USA,USA,USA,NA,34.05,-118.24,urban,,21,PMF,Kim228,2007,2001-2004,year,7.3,7.1,32.4,,,53.3
+Brisbane," 2,043,000 ",Australia,AUS,Oceania,OC,-27.47,153.02,urban,,5,PMF,"Chan57,58",2008,2002/2005,year,20.0,,33.3,9.3,2.7,34.8
+Adelaide," 1,203,000 ",Australia,AUS,Oceania,OC,-34.93,138.60,urban,,6,PMF,"Chan57,58",2008,2002/2006,year,22.8,12.3,17.5,12.2,10.5,24.7
+Melbourne," 4,350,000 ",Australia,AUS,Oceania,OC,-37.81,144.96,urban,,7,PMF,"Chan57,58",2008,2002/2003,year,15.2,12.0,30.3,10.6,10.6,21.3
+Sydney," 4,576,000 ",Australia,AUS,Oceania,OC,-33.86,151.21,urban,,7,PMF,"Chan57,58",2008,2002/2004,year,23.0,1.4,35.7,5.7,1.4,32.8
+Brisbane," 2,043,000 ",Australia,AUS,Oceania,OC,-27.47,153.02,urban,,7,PMF,"Chan57,58",2011,2000/2001,year,6.5,8.1,18.3,33.9,,33.2
+Sydney," 4,576,000 ",Australia,AUS,Oceania,OC,-33.93,150.93,urban,,9,PMF,Cohen59,2011,1998/2009,year,24.0,3.2,22.5,,28.5,21.8
+Brisbane," 2,043,000 ",Australia,AUS,Oceania,OC,-27.54,153.00,urban,,7,PMF,Friend61,2011,1995/2003,year,15.6,9.2,7.5,,43.3,24.4
+Wainuiomata," 11,079 ",New Zeland,NZL,Oceania,OC,-41.27,174.95,urban,,6,PMF,Davy60,2014,2006/2008,year,21.1,3.8,7.3,,47.8,20.0
+Curitiba ," 2,751,907 ",Brazil,BRA,Brazil,SA,-25.43,-49.27,urban,,12,APCA,Andrade1,2012,2007/2008,year,,,55.0,16.0,,29.0
+Porto Alegre," 1,409,351 ",Brazil,BRA,Brazil,SA,-30.03,-51.23,urban,,16,APCA,Andrade1,2012,2007/2008,year,,,35.0,3.0,,62.0
+Belo Horizonte," 2,375,151 ",Brazil,BRA,Brazil,SA,-19.92,-43.93,urban,,17,APCA,Andrade1,2012,2007/2008,year,,44.0,18.0,12.0,,26.0
+Recife ," 1,537,704 ",Brazil,BRA,Brazil,SA,-8.06,-34.88,urban,,18,APCA,Andrade1,2012,2007/2008,year,24.0,8.0,37.0,,,31.0
+Rio de Jainero," 6,320,000 ",Brazil,BRA,Brazil,SA,-22.90,-43.20,urban,,20,APCA,Andrade1,2012,2007/2008,year,,14.0,51.0,18.0,,17.0
+Sao Paulo," 11,235,503 ",Brazil,BRA,Brazil,SA,-23.55,-46.64,urban,,28,APCA,Andrade1,2012,2007/2008,year,,13.0,40.0,13.0,,34.0
+Antartic , 500 ,Brazil,BRA,Brazil,SA,-62.10,-58.40,remote,,2,APCFA,"Artaxo2,3",1990,1985/1987,year,79.3,1.1,,,,19.6
+Alta Floresta(�)," 49,164 ",Brazil,BRA,Brazil,SA,-9.87,-56.09,rural,105,,APFA,"Artaxo2,3",1998,1995,fall,5.9,21.3,,,54.0,18.8
+Campo Grande(�)," 765,257 ",Brazil,BRA,Brazil,SA,-20.44,-54.57,rural,105,,APFA,"Artaxo2,3",1998,1995,fall,5.9,21.3,,,54.0,18.8
+Cuiab�(�)," 556,298 ",Brazil,BRA,Brazil,SA,-15.60,-56.10,rural,105,,APFA,"Artaxo2,3",1998,1995,fall,5.9,21.3,,,54.0,18.8
+Jamari(�), < 50 ,Brazil,BRA,Brazil,SA,-9.20,-63.17,rural,105,,APFA,"Artaxo2,3",1998,1995,fall,5.9,21.3,,,54.0,18.8
+Manaus(�)," 1,802,000 ",Brazil,BRA,Brazil,SA,-3.10,-60.03,rural,105,,APFA,"Artaxo2,3",1998,1995,fall,5.9,21.3,,,54.0,18.8
+Marab�(�)," 233,462 ",Brazil,BRA,Brazil,SA,-5.37,-49.12,rural,105,,APFA,"Artaxo2,3",1998,1995,fall,5.9,21.3,,,54.0,18.8
+Pantanal(�), < 50 ,Brazil,BRA,Brazil,SA,-16.35,-56.67,rural,105,,APFA,"Artaxo2,3",1998,1995,fall,5.9,21.3,,,54.0,18.8
+Porto Nacional(�)," 43,682 ",Brazil,BRA,Brazil,SA,-10.71,-48.41,rural,105,,APFA,"Artaxo2,3",1998,1995,fall,5.9,21.3,,,54.0,18.8
+Porto Velho(�)," 435,732 ",Brazil,BRA,Brazil,SA,-8.76,-63.90,rural,105,,APFA,"Artaxo2,3",1998,1995,fall,5.9,21.3,,,54.0,18.8
+Santarem(�)," 276,074 ",Brazil,BRA,Brazil,SA,-2.44,-54.70,rural,105,,APFA,"Artaxo2,3",1998,1995,fall,5.9,21.3,,,54.0,18.8
+Sao Jos� dos Campos(�)," 621,789 ",Brazil,BRA,Brazil,SA,-23.18,-45.89,rural,105,,APFA,"Artaxo2,3",1998,1995,fall,5.9,21.3,,,54.0,18.8
+Tucurui(�)," 100,000 ",Brazil,BRA,Brazil,SA,-3.77,-49.67,rural,105,,APFA,"Artaxo2,3",1998,1995,fall,5.9,21.3,,,54.0,18.8
+Vilhena(�)," 66,751 ",Brazil,BRA,Brazil,SA,-12.73,-60.14,rural,105,,APFA,"Artaxo2,3",1998,1995,fall,5.9,21.3,,,54.0,18.8
+Sao Paulo," 11,235,503 ",Brazil,BRA,Brazil,SA,-23.55,-46.64,urban,,23,APFA,ESMAP report4,2011,1997/1998,year,,27.5,23.5,26.0,,23.0
+Rio de Janeiro," 6,320,000 ",Brazil,BRA,Brazil,SA,-22.90,-43.21,urban,,10,APFA,Godoy5,2009,2003/2005,year,,36.0,29.0,35.0,,0.0
+Cordoba," 1,272,000 ",Argentina,ARG,Rest of South America,SA,-31.40,-64.18,suburban,,67,PMF,Lopez66,2011,2009/2010,year,,56.0,28.0,16.0,,0.0
+Cordoba," 1,272,000 ",Argentina,ARG,Rest of South America,SA,-31.40,-64.18,urban,,71,PMF,Lopez66,2011,2009/2010,year,,55.0,32.0,13.0,,0.0
+Cordoba," 1,272,000 ",Argentina,ARG,Rest of South America,SA,-31.40,-64.18,suburban,101,,PMF,Lopez66,2011,2009/2010,year,,72.0,,28.0,,0.0
+Cordoba," 1,272,000 ",Argentina,ARG,Rest of South America,SA,-31.40,-64.18,urban,107,,PMF,Lopez66,2011,2009/2010,year,,47.0,33.0,6.0,,14.0
+Santiago," 5,278,000 ",Chile,CHL,Rest of South America,SA,-33.41,-70.55,urban,,23,APFA,ESMAP report4,2011,2000,winter,,42.0,45.0,,,13.0
+Quillota," 75,916 ",Chile,CHL,Rest of South America,SA,-33.69,-71.25,rural,49,,PMF,Hedberg62,2005,1999/2000,year,8.9,35.5,35.0,13.2,,7.4
+Tocopilla," 23,986 ",Chile,CHL,Rest of South America,SA,-22.08,-70.20,residential,,22,PMF,Jorquera63�65,2009,2006,summer,8.6,7.5,,33.5,,50.4
+Tocopilla," 23,986 ",Chile,CHL,Rest of South America,SA,-22.08,-70.20,residential,91,,PMF,Jorquera63�65,2009,2006,summer,35.0,12.0,,30.0,,23.0
+Santiago," 5,278,000 ",Chile,CHL,Rest of South America,SA,-33.41,-70.55,urban,,32,PMF,Jorquera63�65,2012,2004,year,9.9,4.0,31.0,9.7,28.9,16.5
+Antofagasta," 380,695 ",Chile,CHL,Rest of South America,SA,-23.63,-70.39,industrial,,42,PMF,Jorquera63�65,2013,2007/2008,summer,,22.4,,22.0,,55.6
+Antofagasta," 380,695 ",Chile,CHL,Rest of South America,SA,-23.63,-70.39,industrial,161,,PMF,Jorquera63�65,2013,2007/2008,summer,6.4,31.2,,28.0,,34.4
+Bogot� Tunal," 6,763,000 ",Colombia,COL,Rest of South America,SA,3.96,-74.34,remote,26,,PMF,"Vargas68,69",2009,2008,summer,,,52.2,21.3,,26.5
+Bogot�," 6,763,000 ",Colombia,COL,Rest of South America,SA,4.62,-74.14,urban,55,,PMF,"Vargas68,69",2009,2008,summer,,20.8,35.3,31.0,,12.9
+Bogot�," 6,763,000 ",Colombia,COL,Rest of South America,SA,4.74,-74.10,urban,41,,PMF,"Vargas68,69",2012,2008,summer,18.0,9.0,60.0,,,13.0
+Bogot�," 6,763,000 ",Colombia,COL,Rest of South America,SA,4.62,-74.14,urban,52,,PMF,"Vargas68,69",2012,2008,summer,,21.0,35.0,31.0,,13.0
+Moravia," 56,919 ",Costa Rica,CRI,Rest of South America,SA,10.64,-84.70,urban-residential,,18,PMF,Murillo67,2013,2010/2011,year,11.3,21.7,28.9,,,38.1
+San Jose," 288,054 ",Costa Rica,CRI,Rest of South America,SA,9.90,-84.09,urban,,26,PMF,Murillo67,2013,2010/2011,year,7.7,13.3,18.4,26.5,,34.1
+Belen," 6,071 ",Costa Rica,CRI,Rest of South America,SA,9.98,-84.18,industrial,,36,PMF,Murillo67,2013,2010/2011,year,5.6,9.8,7.8,48.6,,28.2
+Heredia," 20,191 ",Costa Rica,CRI,Rest of South America,SA,9.99,-84.11,urban-traffic,,37,PMF,Murillo67,2013,2010/2011,year,6.4,13.8,15.6,27.9,,36.3
+Moravia," 56,919 ",Costa Rica,CRI,Rest of South America,SA,10.64,-84.70,urban-residential,25,,PMF,Murillo67,2013,2010/2011,year,14.5,28.4,30.1,,,27.0
+San Jose," 288,054 ",Costa Rica,CRI,Rest of South America,SA,9.90,-84.09,urban,37,,PMF,Murillo67,2013,2010/2011,year,13.2,21.0,22.7,19.8,,23.3
+Belen," 6,071 ",Costa Rica,CRI,Rest of South America,SA,9.98,-84.18,industrial,52,,PMF,Murillo67,2013,2010/2011,year,10.3,20.6,8.7,35.5,,24.9
+Heredia," 20,191 ",Costa Rica,CRI,Rest of South America,SA,9.99,-84.11,urban-traffic,55,,PMF,Murillo67,2013,2010/2011,year,12.3,24.6,19.5,15.9,,27.7
+,,,,,,,,,,,,,,,,,,,,,
+,Pollution sources have been grouped following common criteria according to the European Guide on Air Pollution Source Apportionment with Receptor Models205 and after a critical review and meta-analysis of ambient particulate matter source apportionment using receptor models in Europe206,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+*,"Data provided for indicative purposes only, and to accompany the source apportionment results. The population data do not necessarily correspond to official data, ",,,,,,,,,,,,,,,,,,,,
+,"   and the particulate matter PM2.5 and PM10 values correspond to the values from the cited sources, but not necessarily the city means.",,,,,,,,,,,,,,,,,,,,
+(�),Average value for several sites,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+1," Andrade M de F, de Miranda RM, Fornaro A, et al. Vehicle emissions and PM2.5 mass concentrations in six Brazilian cities. Air Qual Atmosphere Health 2012; 5: 79�88. ",,,,,,,,,,,,,,,,,,,,
+2," Artaxo P, Andrade F, Maenhaut W. Trace elements and receptor modelling of aerosols in the antarctic peninsula. Nucl Instrum Methods Phys Res Sect B Beam Interact Mater At 1990; 49: 383�7. ",,,,,,,,,,,,,,,,,,,,
+3," Artaxo P, Fernandas ET, Martins JV, et al. Large-scale aerosol source apportionment in Amazonia. J Geophys Res 1998; 103: 31837. ",,,,,,,,,,,,,,,,,,,,
+4," ESMAP, Energy Sector Management Assistance Program. The World Bank, Annual Report 2011. 2012. ",,,,,,,,,,,,,,,,,,,,
+5," Godoy MLDP, Godoy JM, Rold�o LA, Soluri DS, Donagemma RA. Coarse and fine aerosol source apportionment in Rio de Janeiro, Brazil. Atmos Environ 2009; 43: 2366�74. ",,,,,,,,,,,,,,,,,,,,
+6," Jeong C, McGuire ML, Herod D, et al. Receptor model based identification of PM2.5 sources in Canadian cities. Atmospheric Pollut Res 2011; 2: 158�71. ",,,,,,,,,,,,,,,,,,,,
+7," Jeong CH, Evans GJ, Dann T, et al. Influence of biomass burning on wintertime fine particulate matter: Source contribution at a valley site in rural British Columbia. Atmos Environ 2008; 42: 3684�99. ",,,,,,,,,,,,,,,,,,,,
+8," Lee PKH, Brook JR, Dabek-Zlotorzynska E, Mabury SA. Identification of the Major Sources Contributing to PM2.5 Observed in Toronto. Environ Sci Technol 2003; 37: 4831�40. ",,,,,,,,,,,,,,,,,,,,
+9," Junninen H, M�nster J, Rey M, et al. Quantifying the impact of residential heating on the urban air quality in a typical european coal combustion region. Environ Sci Technol 2009; 43: 7964�70. ",,,,,,,,,,,,,,,,,,,,
+10," Kovacevik B, Wagner A, Boman J, Laursen J, Pettersson JBC. Elemental composition of fine particulate matter (PM2.5) in Skopje, FYR of Macedonia. X-Ray Spectrom 2011; 40: 280�8. ",,,,,,,,,,,,,,,,,,,,
+11," Orru H, Kimmel V, Kikas �, et al. Elemental composition and oxidative properties of PM2.5 in Estonia in relation to origin of air masses - results from the ECRHS II in Tartu. Sci Total Environ 2010; 408: 1515�22. ",,,,,,,,,,,,,,,,,,,,
+12," S�wka I, Zwo?dziak A, Trzepla-Nabaglo K, Skr?towicz M, Zwo?dziak J. PM2.5 elemental composition and source apportionment in a residential area of Wroc?aw, Poland. Environ Prot Eng 2012; Vol. 38.  ",,,,,,,,,,,,,,,,,,,,
+13," Bi X, Feng Y, Wu J, Wang Y, Zhu T. Source apportionment of PM10 in six cities of northern China. Atmos Environ 2007; 41: 903�12. ",,,,,,,,,,,,,,,,,,,,
+14," Cheng Y, Lee S, Gu Z, et al. PM2.5 and PM10-2.5 chemical composition and source apportionment near a Hong Kong roadway. 2013. http://www.scopus.com/inward/record.url?eid=2-s2.0-84890828584&partnerID=40&md5=a00fbfb3438131f57d72277af8b99f41. ",,,,,,,,,,,,,,,,,,,,
+15," Davy PK, Gunchin G, Markwitz A, et al. Air particulate matter pollution in Ulaanbaatar, Mongolia: determination of composition, source contributions and source locations. Atmospheric Pollut Res 2011; 2: 126�37. ",,,,,,,,,,,,,,,,,,,,
+16," Geng N, Wang J, Xu Y, Zhang W, Zhang R. Element characteristics and source apportionment of trace elements in PM2.5 in an industrial zone of Zhengzhou. Sustain Environ Res 2013; 23: 1�13. ",,,,,,,,,,,,,,,,,,,,
+17," Huang B, Liu M, Ren Z, et al. Chemical composition, diurnal variation and sources of PM2.5 at two industrial sites of South China. Atmospheric Pollut Res 2013; 4: 298�305. ",,,,,,,,,,,,,,,,,,,,
+18," Kong S, Han B, Bai Z, Chen L, Shi J, Xu Z. Receptor modeling of PM2.5, PM10 and TSP in different seasons and long-range transport analysis at a coastal site of Tianjin, China. Sci Total Environ 2010; 408: 4681�94. ",,,,,,,,,,,,,,,,,,,,
+19," Li TC, Chen WH, Yuan CS, Wu SP, Wang XH. Physicochemical characteristics and source apportionment of atmospheric aerosol particles in Kinmen-Xiamen Airshed. Aerosol Air Qual Res 2013; 13: 308�23. ",,,,,,,,,,,,,,,,,,,,
+20," Liang CS, Yu TY, Chang YY, Syu JY, Lin WY. Source apportionment of PM2.5 particle composition and submicrometer size distribution during an Asian dust storm and non-dust storm in Taipei. Aerosol Air Qual Res 2013; 13: 545�54. ",,,,,,,,,,,,,,,,,,,,
+21," Liu G, Li J, Wu D, Xu H. Chemical composition and source apportionment of the ambient PM2.5 in Hangzhou, China. 2014. http://www.scopus.com/inward/record.url?eid=2-s2.0-84902714158&partnerID=40&md5=4449d8f2db4160e436aaa3efa79636a2. ",,,,,,,,,,,,,,,,,,,,
+22," Ni Z, Bin H, Bai Z. Source Apportionment of PM 10 in Four Cities of Northeastern China. Aerosol Air Qual Res 2012; 12: 571�82. ",,,,,,,,,,,,,,,,,,,,
+23," Song Y, Tang X, Xie S, et al. Source apportionment of PM2.5 in Beijing in 2004. J Hazard Mater 2007; 146: 124�30. ",,,,,,,,,,,,,,,,,,,,
+24," Tao J, Zhang L, Engling G, et al. Chemical composition of PM2.5 in an urban environment in Chengdu, China: Importance of springtime dust storms and biomass burning. Atmospheric Res 2013; 122: 270�83. ",,,,,,,,,,,,,,,,,,,,
+25," Tian YZ, Wu JH, Shi GL, et al. Long-term variation of the levels, compositions and sources of size-resolved particulate matter in a megacity in China. Sci Total Environ 2013; 463-464: 462�8. ",,,,,,,,,,,,,,,,,,,,
+26," Wang Y, Zhuang G, Tang A, et al. The evolution of chemical components of aerosols at five monitoring sites of China during dust storms. Atmos Environ 2007; 41: 1091�106. ",,,,,,,,,,,,,,,,,,,,
+27," Xie M, Wang G, Hu S, et al. Polar organic and inorganic markers in PM10 aerosols from an inland city of China - Seasonal trends and sources. Sci Total Environ 2010; 408: 5452�60. ",,,,,,,,,,,,,,,,,,,,
+28," Xue YH, Wu JH, Feng YC, et al. Source characterization and apportionment of PM10 in Panzhihua, China. Aerosol Air Qual Res 2010; 10: 367�77. ",,,,,,,,,,,,,,,,,,,,
+29," Yu L, Wang G, Zhang R, et al. Characterization and source apportionment of PM2.5 in an urban environment in Beijing. Aerosol Air Qual Res 2013; 13: 574�83. ",,,,,,,,,,,,,,,,,,,,
+30," Yuan Z, Lau AKH, Zhang H, Yu JZ, Louie PKK, Fung JCH. Identification and spatiotemporal variations of dominant PM10 sources over Hong Kong. Atmos Environ 2006; 40: 1803�15. ",,,,,,,,,,,,,,,,,,,,
+31," Zeng F, Shi GL, Li X, et al. Application of a combined model to study the source apportionment of PM10 in Taiyuan, China. Aerosol Air Qual Res 2010; 10: 177�84. ",,,,,,,,,,,,,,,,,,,,
+32," Zhang N, Cao J, Xu H, Zhu C. Elemental compositions of PM2.5 and TSP in Lijiang, southeastern edge of Tibetan Plateau during pre-monsoon period. Particuology 2013; 11: 63�9. ",,,,,,,,,,,,,,,,,,,,
+33," Mmari AG, Potgieter-Vermaak SS, Bencs L, McCrindle RI, Van Grieken R. Elemental and ionic components of atmospheric aerosols and associated gaseous pollutants in and near Dar es Salaam, Tanzania. Atmos Environ 2013; 77: 51�61. ",,,,,,,,,,,,,,,,,,,,
+34," Begum BA, Biswas SK, Kim E, Hopke PK, Khaliquzzaman M. Investigation of sources of atmospheric aerosol at a hot spot area in Dhaka, Bangladesh. J Air Waste Manag Assoc 2005; 55: 227�40. ",,,,,,,,,,,,,,,,,,,,
+35," Gummeneni S, Yusup YB, Chavali M, Samadi SZ. Source apportionment of particulate matter in the ambient air of Hyderabad city, India. Atmospheric Res 2011; 101: 752�64. ",,,,,,,,,,,,,,,,,,,,
+36," Guttikunda SK, Kopakka RV, Dasari P, Gertler AW. Receptor model-based source apportionment of particulate pollution in Hyderabad, India. Environ Monit Assess 2013; 185: 5585�93. ",,,,,,,,,,,,,,,,,,,,
+37," Lodhi A, Ghauri B, Rafiq Khan M, Rahman S, Shafique S. Particulate matter (PM2.5) concentration and source apportionment in Lahore. J Braz Chem Soc 2009; 20: 1811�20. ",,,,,,,,,,,,,,,,,,,,
+38," Mansha M, Ghauri B, Rahman S, Amman A. Characterization and source apportionment of ambient air particulate matter (PM2.5) in Karachi. Sci Total Environ 2012; 425: 176�83. ",,,,,,,,,,,,,,,,,,,,
+39," Mehta B, Venkataraman C, Bhushan M, Tripathi SN. Identification of sources affecting fog formation using receptor modeling approaches and inventory estimates of sectoral emissions. Atmos Environ 2009; 43: 1288�95. ",,,,,,,,,,,,,,,,,,,,
+40," Pipalatkar P, Khaparde VV, Gajghate DG, Bawase MA. Source apportionment of PM2.5 using a CMB model for a centrally located indian city. Aerosol Air Qual Res 2014; 14: 1089�99. ",,,,,,,,,,,,,,,,,,,,
+41," Raja S, Biswas KF, Husain L, Hopke PK. Source apportionment of the atmospheric aerosol in Lahore, Pakistan. Water Air Soil Pollut 2010; 208: 43�57. ",,,,,,,,,,,,,,,,,,,,
+42," Seneviratne MCS, Vajira AW, Hadagiripathira L, et al. Characterization and source apportionment of particulate pollution in Colombo, Sri Lanka. Atmospheric Pollut Res 2011; 2: 207�12. ",,,,,,,,,,,,,,,,,,,,
+43," Sudheer AK, Rengarajan R. Atmospheric mineral dust and trace metals over urban environment in western India during winter. Aerosol Air Qual Res 2012; 12: 923�33. ",,,,,,,,,,,,,,,,,,,,
+44," Iijima A, Tago H, Kumagai K, et al. Regional and seasonal characteristics of emission sources of fine airborne particulate matter collected in the center and suburbs of Tokyo, Japan as determined by multielement analysis and source receptor models. ",,,,,,,,,,,,,,,,,,,,
+,    J Environ Monit 2008; 10: 1025�32.,,,,,,,,,,,,,,,,,,,,
+45," Choi JK, Heo JB, Ban SJ, Yi SM, Zoh KD. Source apportionment of PM2.5 at the coastal area in Korea. Sci Total Environ 2013; 447: 370�80. ",,,,,,,,,,,,,,,,,,,,
+46," Lim JM, Lee JH, Moon JH, Chung YS, Kim KH. Source apportionment of PM10 at a small industrial area using Positive Matrix Factorization. Atmospheric Res 2010; 95: 88�100. ",,,,,,,,,,,,,,,,,,,,
+47," Moon KJ, Han JS, Ghim YS, Kim YJ. Source apportionment of fine carbonaceous particles by positive matrix factorization at Gosan background site in East Asia. Environ Int 2008; 34: 654�64. ",,,,,,,,,,,,,,,,,,,,
+48," Park SS, Kim YJ. Source contributions to fine particulate matter in an urban atmosphere. Chemosphere 2005; 59: 217�26. ",,,,,,,,,,,,,,,,,,,,
+49," Campos-Ramos AA, Aragon-Pina A, Alastuey A, Galindo-Estrada I, Querol X. Levels, composition and source apportionment of rural background PM10 in western Mexico (state of Colima). Atmospheric Pollut Res 2011; 2: 409�17. ",,,,,,,,,,,,,,,,,,,,
+50," Minguill�n MC, Campos AA, C�rdenas B, Blanco S, Molina LT, Querol X. Mass concentration, composition and sources of fine and coarse particulate matter in Tijuana, Mexico, during Cal-Mex campaign. Atmos Environ 2014; 88: 320�9. ",,,,,,,,,,,,,,,,,,,,
+51," Mugica V, Watson J, Vega E, Reyes E, Ruiz ME, Chow J. Receptor model source apportionment of nonmethane hydrocarbons in Mexico City. ScientificWorldJournal 2002; 2: 844�60. ",,,,,,,,,,,,,,,,,,,,
+52," Herrera Murillo J, Campos Ramos A, �ngeles Garc�a F, Blanco Jim�nez S, C�rdenas B, Mizohata A. Chemical composition of PM 2.5 particles in Salamanca, Guanajuato Mexico: Source apportionment with receptor models. Atmospheric Res 2012; 107: 31�41. ",,,,,,,,,,,,,,,,,,,,
+53," Alolayan MA, Brown KW, Evans JS, Bouhamra WS, Koutrakis P. Source apportionment of fine particles in Kuwait City. Sci Total Environ 2013; 448: 14�25. ",,,,,,,,,,,,,,,,,,,,
+54," Khodeir M, Shamy M, Alghamdi M, et al. Source apportionment and elemental composition of PM2.5 and PM10 in Jeddah City, Saudi Arabia. Atmospheric Pollut Res 2012; 3: 331�40. ",,,,,,,,,,,,,,,,,,,,
+55," Sowlat MH, Naddafi K, Yunesian M, Jackson PL, Lotfi S, Shahsavani A. PM10 Source Apportionment in Ahvaz, Iran, using positive matrix factorization. Clean - Soil Air Water 2013; 41: 1143�51. ",,,,,,,,,,,,,,,,,,,,
+56," Boman J, Shaltout AA, Abozied AM, Hassan SK. On the elemental composition of PM2.5 in central Cairo, Egypt. X-Ray Spectrom 2013; 42: 276�83. ",,,,,,,,,,,,,,,,,,,,
+57," Chan YC, Cohen DD, Hawas O, et al. Apportionment of sources of fine and coarse particles in four major Australian cities by positive matrix factorisation. Atmos Environ 2008; 42: 374�89. ",,,,,,,,,,,,,,,,,,,,
+58," Chan YC, Hawas O, Hawker D, et al. Using multiple type composition data and wind data in PMF analysis to apportion and locate sources of air pollutants. Atmos Environ 2011; 45: 439�49. ",,,,,,,,,,,,,,,,,,,,
+59," Cohen DD, Stelcer E, Garton D, Crawford J. Fine particle characterisation, source apportionment and longrange dust transport into the Sydney Basin: A long term study between 1998 and 2009. Atmospheric Pollut Res 2011; 2: 182�9. ",,,,,,,,,,,,,,,,,,,,
+60," Davy PK, Ancelet T, Trompetter WJ, Markwitz A, Weatherburn DC. Composition and source contributions of air particulate matter pollution in a New Zealand suburban town. Atmospheric Pollut Res 2012; 3: 143�7. ",,,,,,,,,,,,,,,,,,,,
+61," Friend AJ, Ayoko GA, Jayaratne ER, Jamriska M, Hopke PK, Morawska L. Source apportionment of ultrafine and fine particle concentrations in Brisbane, Australia. Environ Sci Pollut Res 2012; 19: 2942�50. ",,,,,,,,,,,,,,,,,,,,
+62," Hedberg E, Gidhagen L, Johansson C. Source contributions to PM10 and arsenic concentrations in Central Chile using positive matrix factorization. Atmos Environ 2005; 39: 549�61. ",,,,,,,,,,,,,,,,,,,,
+63," Jorquera H. Source apportionment of PM10 and PM2.5 at Tocopilla, Chile (22�05? S, 70�12? W). Environ Monit Assess 2009; 153: 235�51. ",,,,,,,,,,,,,,,,,,,,
+64," Jorquera H, Rappengl�ck B. Receptor modeling of ambient VOC at Santiago, Chile. Atmos Environ 2004; 38: 4243�63. ",,,,,,,,,,,,,,,,,,,,
+65," Jorquera H, Barraza F. Source apportionment of ambient PM2.5 in Santiago, Chile: 1999 and 2004 results. Sci Total Environ 2012; 435-436: 418�29. ",,,,,,,,,,,,,,,,,,,,
+66," L�pez ML, Ceppi S, Palancar GG, Olcese LE, Tirao G, Toselli BM. Elemental concentration and source identification of PM10 and PM2.5 by SR-XRF in C�rdoba City, Argentina. Atmos Environ 2011; 45: 5450�7. ",,,,,,,,,,,,,,,,,,,,
+67," Herrera Murillo J, Rodriguez Roman S, Rojas Marin JF, et al. Chemical characterization and source apportionment of PM10 and PM2.5 in the metropolitan area of Costa Rica, Central America. Atmospheric Pollut Res 2013; 4: 181�90. ",,,,,,,,,,,,,,,,,,,,
+68," Vargas FA, Rojas NY. Chemical composition and mass closure for airborne particulate matter in Bogot�. Ing E Investig 2010; 30: 105�15. ",,,,,,,,,,,,,,,,,,,,
+69," Vargas FA, Rojas NY, Pachon JE, Russell AG. PM10 characterization and source apportionment at two residential areas in Bogota. Atmospheric Pollut Res 2012; 3: 72�80. ",,,,,,,,,,,,,,,,,,,,
+70," Cohen DD, Stelcer E, Santos FL, Prior M, Thompson C, Pabroa PCB. Fingerprinting and source apportionment of fine particle pollution in Manila by IBA and PMF techniques: A 7-year study. X-Ray Spectrom 2009; 38: 18�25. ",,,,,,,,,,,,,,,,,,,,
+71," Cohen DD, Crawford J, Stelcer E, Bac VT. Characterisation and source apportionment of fine particulate sources at Hanoi from 2001 to 2008. Atmos Environ 2010; 44: 320�8. ",,,,,,,,,,,,,,,,,,,,
+72," Hai CD, Kim Oanh NT. Effects of local, regional meteorology and emission sources on mass and compositions of particulate matter in Hanoi. Atmos Environ 2013; 78: 105�12. ",,,,,,,,,,,,,,,,,,,,
+73," Hang NT, Kim Oanh NT. Chemical characterization and sources apportionment of fine particulate pollution in a mining town of Vietnam. Atmospheric Res 2014; 145-146: 214�25. ",,,,,,,,,,,,,,,,,,,,
+74," Lestari P, Mauliadi YD. Source apportionment of particulate matter at urban mixed site in Indonesia using PMF. Atmos Environ 2009; 43: 1760�70. ",,,,,,,,,,,,,,,,,,,,
+75," Tahir NM, Suratman S, Fong FT, Hamzah MS, Latif MT. Temporal distribution and chemical characterization of atmospheric particulate matter in the eastern coast of Peninsular Malaysia. Aerosol Air Qual Res 2013; 13: 584�95. ",,,,,,,,,,,,,,,,,,,,
+76, Preciosa Corazon B. Pabroa FLS. Receptor modeling studies for the characterization of air particulate lead pollution sources in Valenzuela sampling site (Philippines). Atmospheric Pollut Res 2011; : 213�8. ,,,,,,,,,,,,,,,,,,,,
+77," Abdul Rahman S, Mohd Suhaimi H, Abdul Khalik W, et al. Sources apportionment of fine and coarse aerosol in Klang Valley, Kuala Lumpur using positive matrix factorization. Atmospheric Pollut Res 2011; 2: 197�206. ",,,,,,,,,,,,,,,,,,,,
+78," Santoso M, Lestiani DD, Markwitz A. Characterization of airborne particulate matter collected at Jakarta roadside of an arterial road. J Radioanal Nucl Chem 2013; 297: 165�9. ",,,,,,,,,,,,,,,,,,,,
+79," See SW, Balasubramanian R, Rianawati E, Karthikeyan S, Streets DG. Characterization and source apportionment of particulate matter < or = 2.5 micrometer in Sumatra, Indonesia, during a recent peat fire episode. Environ Sci Technol 2007; 41: 3488�94. ",,,,,,,,,,,,,,,,,,,,
+80," Wimolwattanapun W, Hopke PK, Pongkiatkul P. Source apportionment and potential source locations of PM2.5 and PM2.5-10 at residential sites in metropolitan Bangkok. Atmospheric Pollut Res 2011; 2: 172�81. ",,,,,,,,,,,,,,,,,,,,
+81," Dogan G, G�ll� G, Tuncel G. Sources and source regions effecting the aerosol composition of the Eastern Mediterranean. Microchem J 2008; 88: 142�9. ",,,,,,,,,,,,,,,,,,,,
+82," Ko�ak M, Mihalopoulos N, Kubilay N. Origin and source regions of PM10 in the Eastern Mediterranean atmosphere. Atmospheric Res 2009; 92: 464�74. ",,,,,,,,,,,,,,,,,,,,
+83," Ko�ak M, Theodosi C, Zarmpas P, et al. Particulate matter (PM10) in Istanbul: Origin, source areas and potential impact on surrounding regions. Atmos Environ 2010. DOI:10.1016/j.atmosenv.2010.10.007. ",,,,,,,,,,,,,,,,,,,,
+84," Yatkin S, Bayram A. Source apportionment of PM10 and PM2.5 using positive matrix factorization and chemical mass balance in Izmir, Turkey. Sci Total Environ 2008; 390: 109�23. ",,,,,,,,,,,,,,,,,,,,
+85," Yatkin S, Bayram A. TSP, PM depositions, and trace elements in the vicinity of a cement plant and their source apportionments using chemical mass balance model in Izmir, Turkey. Environ Monit Assess 2010; 167: 125�41. ",,,,,,,,,,,,,,,,,,,,
+86," Begum BA, Hopke PK, Zhao W. Source identification of fine particles in Washington, DC, by expanded factor analysis modeling. Environ Sci Technol 2005; 39: 1129�37. ",,,,,,,,,,,,,,,,,,,,
+87," Antony Chen L, Doddridge BG, Dickerson RR, Chow JC, Henry RC. Origins of fine aerosol mass in the Baltimore-Washington corridor: implications from observation, factor analysis, and ensemble air parcel back trajectories. Atmos Environ 2002; 36: 4541�54. ",,,,,,,,,,,,,,,,,,,,
+88," Chen LWA, Watson JG, Chow JC, Magliano KL. Quantifying PM2.5 source contributions for the San Joaquin Valley with multivariate receptor models. Environ Sci Technol 2007; 41: 2818�26. ",,,,,,,,,,,,,,,,,,,,
+89," Chiou P, Tang W, Lin CJ, Chu HW, Tadmor R, Ho TC. Atmospheric aerosols over a southwestern region of Texas. Environ Model Assess 2009; 14: 645�59. ",,,,,,,,,,,,,,,,,,,,
+90," Chiou P, Tang W, Lin CJ, Chu HW, Tadmor R, Ho TC. Atmospheric aerosols over two sites in a Southeastern region of Texas. Can J Chem Eng 2008; 86: 421�35. ",,,,,,,,,,,,,,,,,,,,
+91," Chiou P, Tang W, Lin CJ, Chu HW, Ho TC. Comparison of atmospheric aerosols between two sites over golden triangle of Texas. Int J Environ Res 2009; 3: 253�70. ",,,,,,,,,,,,,,,,,,,,
+92," Coutant B, Kelly T, Ma J, Scott B, Wood B, Main H. Source apportionment analysis of air quality monitoring data: Phase 1 Final Report. For the Mid-Atlantic/Northeast Visibility Union and Midwest Regional Planning Organization  ",,,,,,,,,,,,,,,,,,,,
+,"   by Battelle Memorial Institute and Sonoma Technology, Inc. 2002.",,,,,,,,,,,,,,,,,,,,
+93," Coutant B, Holloman CH, Swinton KE, Hafner HR. Eight-site source apportionment of PM2.5 speciation trends data. Revised Draft Report for Office of Air Quality Planning and Standards, U.S. Environmental Protection Agency, Work Assignment No. 1-05. 2003. ",,,,,,,,,,,,,,,,,,,,
+94," Green MC, Chow JC, Oliver Chang MC, et al. Source apportionment of atmospheric particulate carbon in Las Vegas, Nevada, USA. Particuology 2013; 11: 110�8. ",,,,,,,,,,,,,,,,,,,,
+95," Hammond DM, Dvonch JT, Keeler GJ, et al. Sources of ambient fine particulate matter at two community sites in Detroit, Michigan. Atmos Environ 2008; 42: 720�32. ",,,,,,,,,,,,,,,,,,,,
+96," Jimenez J, Wu CF, Claiborn C, et al. Agricultural burning smoke in eastern Washington - Part I: Atmospheric characterization. Atmos Environ 2006; 40: 639�50. ",,,,,,,,,,,,,,,,,,,,
+97," Kim E, Hopke PK, Paatero P, Edgerton ES. Incorporation of parametric factors into multilinear receptor model studies of Atlanta aerosol. Atmos Environ 2003; 37: 5009�21. ",,,,,,,,,,,,,,,,,,,,
+98," Kim BM, Henry RC. Application of SAFER model to the Los Angeles PM10 data. Atmos Environ 2000; 34: 1747�59. ",,,,,,,,,,,,,,,,,,,,
+99," Kim E, Hopke PK, Edgerton ES. Improving source identification of Atlanta aerosol using temperature resolved carbon fractions in positive matrix factorization. Atmos Environ 2004; 38: 3349�62. ",,,,,,,,,,,,,,,,,,,,
+100," Kim E, Hopke PK. Improving source apportionment of fine particles in the Eastern United States utilizing temperature-resolved carbon fractions. J Air Waste Manag Assoc 2005; 55: 1456�63. ",,,,,,,,,,,,,,,,,,,,
+101," Kim E, Hopke PK, Edgerton ES. Source Identification of Atlanta Aerosol by Positive Matrix Factorization. J Air Waste Manag Assoc 2003; 53: 731�9. ",,,,,,,,,,,,,,,,,,,,
+102," Kim E, Larson TV, Hopke PK, Slaughter C, Sheppard LE, Claiborn C. Source identification of PM2.5 in an arid Northwest U.S. City by positive matrix factorization. Atmospheric Res 2003; 66: 291�305. ",,,,,,,,,,,,,,,,,,,,
+103," Kim E, Hopke PK, Larson TV, Covert DS. Analysis of Ambient Particle Size Distributions Using Unmix and Positive Matrix Factorization. Environ Sci Technol 2004; 38: 202�9. ",,,,,,,,,,,,,,,,,,,,
+104," Lee S, Liu W, Wang Y, Russell AG, Edgerton ES. Source apportionment of PM2.5: Comparing PMF and CMB results for four ambient monitoring sites in the southeastern United States. Atmos Environ 2008; 42: 4126�37. ",,,,,,,,,,,,,,,,,,,,
+105," Lewis CW, Norris GA, Conner TL, Henry RC. Source Apportionment of Phoenix PM2.5 Aerosol with the Unmix Receptor Model. J Air Waste Manag Assoc 2003; 53: 325�38. ",,,,,,,,,,,,,,,,,,,,
+106," Li Z, Hopke PK, Husain L, et al. Sources of fine particle composition in New York city. Atmos Environ 2004; 38: 6521�9. ",,,,,,,,,,,,,,,,,,,,
+107," Liu W, Wang Y, Russell A, Edgerton ES. Enhanced source identification of southeast aerosols using temperature-resolved carbon fractions and gas phase components. Atmos Environ 2006; 40: 445�66. ",,,,,,,,,,,,,,,,,,,,
+108," Lowenthal D, Chow J. PM10 Source Apportionment at McMurdo Station, Antarctica. Grantome http://grantome.com/grant/NSF/PLR-9417829 (accessed Oct 9, 2014). ",,,,,,,,,,,,,,,,,,,,
+109," Maykut NN, Lewtas J, Kim E, Larson TV. Source Apportionment of PM2.5 at an Urban IMPROVE Site in Seattle, Washington. Environ Sci Technol 2003; 37: 5135�42. ",,,,,,,,,,,,,,,,,,,,
+110," Morishita M, Keeler GJ, Wagner JG, Harkema JR. Source identification of ambient PM2.5 during summer inhalation exposure studies in Detroit, MI. Atmos Environ 2006; 40: 3823�34. ",,,,,,,,,,,,,,,,,,,,
+111," Ogulei D, Hopke PK, Zhou L, Patrick Pancras J, Nair N, Ondov JM. Source apportionment of Baltimore aerosol from combined size distribution and chemical composition data. Atmos Environ 2006; 40: 396�410. ",,,,,,,,,,,,,,,,,,,,
+112," Pancras JP, Landis MS, Norris GA, Vedantham R, Dvonch JT. Source apportionment of ambient fine particulate matter in Dearborn, Michigan, using hourly resolved PM chemical composition data. Sci Total Environ 2013; 448: 2�13. ",,,,,,,,,,,,,,,,,,,,
+113," Poirot RL, Wishinski PR, Hopke PK, Polissar AV. Comparative application of multiple receptor methods to identify aerosol sources in northern Vermont. Environ Sci Technol 2001; 35: 4622�36. ",,,,,,,,,,,,,,,,,,,,
+114," Polissar AV, Hopke PK, Poirot RL. Atmospheric aerosol over Vermont: Chemical composition and sources. Environ Sci Technol 2001; 35: 4604�21. ",,,,,,,,,,,,,,,,,,,,
+115," Song XH, Polissar AV, Hopke PK. Sources of fine particle composition in the northeastern US. Atmos Environ 2001; 35: 5277�86. ",,,,,,,,,,,,,,,,,,,,
+116," Subramoney P, Karnae S, Farooqui Z, John K, Gupta AK. Identification of PM2.5 sources affecting a semi-arid coastal region using a chemical mass balance model. Aerosol Air Qual Res 2013; 13: 60�71. ",,,,,,,,,,,,,,,,,,,,
+117," Wang Y, Hopke PK. A ten-year source apportionment study of ambient fine particulate matter in San Jose, California. Atmospheric Pollut Res 2013; 4: 398�404. ",,,,,,,,,,,,,,,,,,,,
+118," Wang Y. Is Alaska Truly the Great Escape from Air Pollution? � Long Term Source Apportionment of Fine Particulate Matter in Fairbanks, Alaska. Aerosol Air Qual Res 2015. DOI:10.4209/aaqr.2014.03.0047. ",,,,,,,,,,,,,,,,,,,,
+119," Ward TJ. Source apportionment studies focused on wood smoke in the northern rockies and fairbanks, Alaska. 2012: 637�41. ",,,,,,,,,,,,,,,,,,,,
+120, Yuling Jia ALC. Saccharide composition in atmospheric particulate matter in the southwest US and estimates of source contributions. J Aerosol Sci 2010; : 62�73. ,,,,,,,,,,,,,,,,,,,,
+121," Zhao W, Hopke PK. Source apportionment for ambient particles in the San Gorgonio wilderness. Atmos Environ 2004; 38: 5901�10. ",,,,,,,,,,,,,,,,,,,,
+122," Zhou Z, Dionisio KL, Verissimo TG, et al. Chemical characterization and source apportionment of household fine particulate matter in rural, peri-urban, and urban West Africa. Environ Sci Technol 2014; 48: 1343�51. ",,,,,,,,,,,,,,,,,,,,
+123," Zhou L, Hopke PK, Paatero P, et al. Advanced factor analysis for multiple time resolution aerosol composition data. Atmos Environ 2004; 38: 4909�20. ",,,,,,,,,,,,,,,,,,,,
+124," Oluyemi EA, Asubiojo OI. AMBIENT AIR PARTICULATE MATTER IN LAGOS, NIGERIA: A STUDY USING RECEPTOR MODELING WITH X-RAY FLOURESCENCE ANALYSIS. Bull Chem Soc Ethiop 2001; 15: 97�108. ",,,,,,,,,,,,,,,,,,,,
+125," Alleman LY, Lamaison L, Perdrix E, Robache A, Galloo JC. PM10 metal concentrations and source identification using positive matrix factorization and wind sectoring in a French industrial zone. Atmospheric Res 2010; 96: 612�25. ",,,,,,,,,,,,,,,,,,,,
+126," Almeida SM, Pio CA, Freitas MC, Reis MA, Trancoso MA. Approaching PM2.5 and PM2.5-10 source apportionment by mass balance analysis, principal component analysis and particle size distribution. Sci Total Environ 2006; 368: 663�74. ",,,,,,,,,,,,,,,,,,,,
+127," Almeida SM, Pio CA, Freitas MC, Reis MA, Trancoso MA. Source apportionment of fine and coarse particulate matter in a sub-urban area at the Western European Coast. Atmos Environ 2005; 39: 3127�38. ",,,,,,,,,,,,,,,,,,,,
+128," Amato F, Alastuey A, De La Rosa J, et al. Trends of road dust emissions contributions on ambient air particulate levels at rural, urban and industrial sites in southern Spain. Atmospheric Chem Phys 2014; 14: 3533�44. ",,,,,,,,,,,,,,,,,,,,
+129," Amato F, Moreno T, Pandolfi M, et al. Concentrations, sources and geochemistry of airborne particulate matter at a major European airport. J Environ Monit 2010; 12: 854�62. ",,,,,,,,,,,,,,,,,,,,
+130," Amato F, Pandolfi M, Escrig A, et al. Quantifying road dust resuspension in urban environment by Multilinear Engine: A comparison with PMF2. Atmos Environ 2009; 43: 2770�80. ",,,,,,,,,,,,,,,,,,,,
+131," Amato F, Rivas I, Viana M, et al. Sources of indoor and outdoor PM2.5 concentrations in primary schools. Sci Total Environ 2014; 490: 757�65. ",,,,,,,,,,,,,,,,,,,,
+132," Andersen ZJ, Wahlin P, Raaschou-Nielsen O, Scheike T, Loft S. Ambient particle source apportionment and daily hospital admissions among children and elderly in Copenhagen. J Expo Sci Environ Epidemiol 2007; 17: 625�36. ",,,,,,,,,,,,,,,,,,,,
+133," Andriani E, Caselli M, de Gennaro G, Giove A, Tortorella C. Synergistic use of several receptor models (CMB, APCS and PMF) to interpret air quality data. Environmetrics 2011. DOI:10.1002/env.1120. ",,,,,,,,,,,,,,,,,,,,
+134," Bauer H. IM, A. Kasper-Giebl, A. Limbeck, A. Caseiro, M. Handler, N. Jankowski, B. Klatzer, P. Kotianova, P.Pouresmaeil, Ch. Schmidl, M. Sageder, H. Puxbaum. AQUELLA� Steiermark Bestimmung von Immissionsbeitr�gen in Feinstaubproben. 2004. ",,,,,,,,,,,,,,,,,,,,
+135," A Arruti IF-O. Regional evaluation of particulate matter composition in an Atlantic coastal area (Cantabria region, northern Spain): Spatial variations in different urban and rural environments. Atmospheric Res 2011; 1: 280�93. ",,,,,,,,,,,,,,,,,,,,
+136, Astel AM. Air contaminants modelling by use of several receptor-oriented models. Int J Environ Pollut 2010; 42: 32�57. ,,,,,,,,,,,,,,,,,,,,
+137," Astel A, Cozzutto S, Cozzi F, et al. Seasonal apportionment of the sources of ambient air particulates in the city of Trieste. Int J Environ Pollut 2010; 41: 70�89. ",,,,,,,,,,,,,,,,,,,,
+138," Bruno P, Caselli M, de Gennaro G, et al. Application of receptor models to airborne particulate matter. Microchem J 2008; 88: 121�9. ",,,,,,,,,,,,,,,,,,,,
+139," Byrd T, Stack M, Furey A. The assessment of the presence and main constituents of particulate matter ten microns (PM10) in Irish, rural and urban air. Atmos Environ 2009; 44: 75�87. ",,,,,,,,,,,,,,,,,,,,
+140," Call�n MS, de la Cruz MT, L�pez JM, Navarro MV, Mastral AM. Comparison of receptor models for source apportionment of the PM10 in Zaragoza (Spain). Chemosphere 2009; 76: 1120�9. ",,,,,,,,,,,,,,,,,,,,
+141," Calvo AI, Pont V, Liousse C, et al. Chemical composition of urban aerosols in Toulouse, France during CAPITOUL experiment. Meteorol Atmospheric Phys 2008; 102: 307�23. ",,,,,,,,,,,,,,,,,,,,
+142," Canepari S, Cardarelli E, Perrino C, Catrambone M, Pietrodangelo A, Strincone M. Two-stage chemical fractionation method for the analysis of elements and non-volatile inorganic ions in PM10 samples: 7908�23. ",,,,,,,,,,,,,,,,,,,,
+,   Application to ambient samples collected in Rome (Italy). Atmos Environ 2006; 40: ,,,,,,,,,,,,,,,,,,,,
+143," Contini D, Genga A, Cesari D, et al. Characterisation and source apportionment of PM10 in an urban background site in Lecce. Atmospheric Res 2010; 95: 40�54. ",,,,,,,,,,,,,,,,,,,,
+144," Contini D, Cesari D, Genga A, et al. Source apportionment of size-segregated atmospheric particles based on the major water-soluble components in Lecce (Italy). Sci Total Environ 2014; 472: 248�61. ",,,,,,,,,,,,,,,,,,,,
+145," D�Alessandro A, Lucarelli F, Mand� PA, et al. Hourly elemental composition and sources identification of fine and coarse PM10 particulate matter in four Italian towns. J Aerosol Sci 2003; 34: 243�59. ",,,,,,,,,,,,,,,,,,,,
+146," DEFRA Report.  summary of the second report produced by the Air Quality Expert Group, Department for the Environment, Food and Rural Affairs, London, 2005. . ",,,,,,,,,,,,,,,,,,,,
+147," El Haddad I, Marchand N, Wortham H, et al. Primary sources of PM2.5 organic aerosol in an industrial Mediterranean city, Marseille. Atmospheric Chem Phys Discuss 2010; 10: 25435�90. ",,,,,,,,,,,,,,,,,,,,
+148," Fabretti JF, Sauret N, Gal JF, Maria PC, Sch�rer U. Elemental characterization and source identification of PM2.5 using Positive Matrix Factorization: The Malraux road tunnel, Nice, France. Atmospheric Res 2009; 94: 320�9. ",,,,,,,,,,,,,,,,,,,,
+149," Furusj� E, Sternbeck J, Cousins AP. PM10 source characterization at urban and highway roadside locations. Sci Total Environ 2007; 387: 206�19. ",,,,,,,,,,,,,,,,,,,,
+150," Gietl JK, Klemm O. Source identification of size-segregated aerosol in munster, germany, by factor analysis. Aerosol Sci Technol 2009; 43: 828�37. ",,,,,,,,,,,,,,,,,,,,
+151," Glasius M, Ketzel M, W�hlin P, et al. Impact of wood combustion on particle levels in a residential area in Denmark. Atmos Environ 2006; 40: 7115�24. ",,,,,,,,,,,,,,,,,,,,
+152," Gu J, Pitz M, Schnelle-Kreis J, et al. Source apportionment of ambient particles: Comparison of positive matrix factorization analysis applied to particle size distribution and chemical composition data. Atmos Environ 2011; 45: 1849�57. ",,,,,,,,,,,,,,,,,,,,
+153," Healy RM, Hellebust S, Kourtchev I, et al. Source apportionment of PM2.5 in Cork Harbour, Ireland using a combination of single particle mass spectrometry and quantitative semi-continuous measurements. Atmospheric Chem Phys 2010; 10: 9593�613. ",,,,,,,,,,,,,,,,,,,,
+154," Hellebust S, Allanic A, O�Connor IP, Jourdan C, Healy D, Sodeau JR. Sources of ambient concentrations and chemical composition of PM2.5-0.1 in Cork Harbour, Ireland. Atmospheric Res 2010; 95: 136�49. ",,,,,,,,,,,,,,,,,,,,
+155," Hellebust S, Allanic A, O�Connor IP, Wenger JC, Sodeau JR. The use of real-time monitoring data to evaluate major sources of airborne particulate matter. Atmos Environ 2010; 44: 1116�25. ",,,,,,,,,,,,,,,,,,,,
+156," Huang S, Arimoto R, Rahn KA. Sources and source variations for aerosol at Mace Head, Ireland. Atmos Environ 2001; 35: 1421�37. ",,,,,,,,,,,,,,,,,,,,
+157," Ilacqua V, H�nninen O, Saarela K, Katsouyanni K, K�nzli N, Jantunen M. Source apportionment of population representative samples of PM2.5 in three European cities using structural equation modelling. Sci Total Environ 2007; 384: 77�92. ",,,,,,,,,,,,,,,,,,,,
+158," Karanasiou AA, Siskos PA, Eleftheriadis K. Assessment of source apportionment by Positive Matrix Factorization analysis on fine and coarse urban aerosol size fractions. Atmos Environ 2009; 43: 3385�95. ",,,,,,,,,,,,,,,,,,,,
+159," Karanasiou A, Querol X, Alastuey A, et al. Particulate matter and gaseous pollutants in the Mediterranean Basin: Results from the MED-PARTICLES project. Sci Total Environ 2014; 488-489: 297�315. ",,,,,,,,,,,,,,,,,,,,
+160," Karanasiou A, Moreno T, Amato F, et al. Road dust contribution to PM levels - Evaluation of the effectiveness of street washing activities by means of Positive Matrix Factorization. Atmos Environ 2011; 45: 2193�201. ",,,,,,,,,,,,,,,,,,,,
+161," Krecl P, Hedberg Larsson E, Str�m J, Johansson C. Contribution of residential wood combustion and other sources to hourly winter aerosol in Northern Sweden determined by positive matrix factorization. Atmospheric Chem Phys 2008; 8: 3639�53. ",,,,,,,,,,,,,,,,,,,,
+162," B. R. Larsen SG. Sources for PM air pollution in the Po Plain, Italy: II. Probabilistic uncertainty characterization and sensitivity analysis of secondary and primary sources. Atmos Environ 2012; 50: 203�13. ",,,,,,,,,,,,,,,,,,,,
+163," Laupsa H, Denby B, Larssen S, Schaug J. Source apportionment of particulate matter (PM2.5) in an urban area using dispersion, receptor and inverse modelling. Atmos Environ 2009; 43: 4733�44. ",,,,,,,,,,,,,,,,,,,,
+164," Lenschow P, Abraham HJ, Kutzner K, Lutz M, Preu� JD, Reichenb�cher W. Some ideas about the sources of PM10. Atmos Environ 2001; 35: S23�33. ",,,,,,,,,,,,,,,,,,,,
+165," Manoli E, Voutsa D, Samara C. Chemical characterization and source identification/apportionment of fine and coarse air particles in Thessaloniki, Greece. Atmos Environ 2002; 36: 949�61. ",,,,,,,,,,,,,,,,,,,,
+166," Marcazzan GM, Ceriani M, Valli G, Vecchi R. Source apportionment of PM10 and PM2.5 in Milan (Italy) using receptor modelling. Sci Total Environ 2003; 317: 137�47. ",,,,,,,,,,,,,,,,,,,,
+167," Marenco F, Bonasoni P, Calzolari F, et al. Characterization of atmospheric aerosols at Monte Cimone, Italy, during summer 2004: Source apportionment and transport mechanisms. J Geophys Res Atmospheres 2006; 111. DOI:10.1029/2006jd007145. ",,,,,,,,,,,,,,,,,,,,
+168," Masiol M, Rampazzo G, Ceccato D, Squizzato S, Pavoni B. Characterization of PM10 sources in a coastal area near Venice (Italy): An application of factor-cluster analysis. Chemosphere 2010; 80: 771�8. ",,,,,,,,,,,,,,,,,,,,
+169, Stefano Mossetti SPA. Assessing the impact of particulate matter sources in the Milan urban area. Int J Environ Pollut - INT J Env Pollut 2005; 24. DOI:10.1504/IJEP.2005.007396. ,,,,,,,,,,,,,,,,,,,,
+170," Mazzei F, Lucarelli F, Nava S, Prati P, Valli G, Vecchi R. A new methodological approach: ",,,,,, The combined use of two-stage streaker samplers and optical particle counters for the characterization of airborne particulate matter. Atmos Environ 2007; 41: 5525�35.,,,,,,,,,,,,,,
+171," Moreno T, Pandolfi M, Querol X, et al. Manganese in the urban atmosphere: Identifying anomalous concentrations and sources. Environ Sci Pollut Res 2011; 18: 173�83. ",,,,,,,,,,,,,,,,,,,,
+172," Moreno F, Gramsch E, Oyola P, Rubio MA. Modification in the soil and traffic-related sources of particle matter between 1998 and 2007 in santiago de Chile. J Air Waste Manag Assoc 2010; 60: 1410�21. ",,,,,,,,,,,,,,,,,,,,
+173," Negral L, Moreno-Grau S, Moreno J, Querol X, Viana MM, Alastuey A. Natural and anthropogenic contributions to PM10 and PM2.5 in an urban area in the western Mediterranean coast. Water Air Soil Pollut 2008; 192: 227�38. ",,,,,,,,,,,,,,,,,,,,
+174," Nicol�s J, Chiari M, Crespo J, et al. Assessment of potential source regions of PM2.5 components at a southwestern Mediterranean site. Tellus Ser B Chem Phys Meteorol 2011; 63: 96�106. ",,,,,,,,,,,,,,,,,,,,
+175," Pandolfi M, Viana M, Minguill�n MC, et al. Receptor models application to multi-year ambient PM10 measurements in an industrialized ceramic area: Comparison of source apportionment results. Atmos Environ 2008; 42: 9007�17. ",,,,,,,,,,,,,,,,,,,,
+176," Pandolfi M, Gonzalez-Castanedo Y, Alastuey A, et al. Source apportionment of PM10 and PM2.5 at multiple sites in the strait of Gibraltar by PMF: Impact of shipping emissions. Environ Sci Pollut Res 2011; 18: 260�9. ",,,,,,,,,,,,,,,,,,,,
+177," Pey J, P�rez N, Castillo S, et al. Geochemistry of regional background aerosols in the Western Mediterranean. Atmospheric Res 2009; 94: 422�35. ",,,,,,,,,,,,,,,,,,,,
+178," Querol X, Alastuey A, Rodriguez S, et al. PM10 and PM2.5 source apportionment in the Barcelona Metropolitan area, Catalonia, Spain. Atmos Environ 2001; 35: 6407�19. ",,,,,,,,,,,,,,,,,,,,
+179," Querol X, Alastuey A, De La Rosa J, S�nchez-De-La-Campa A, Plana F, Ruiz CR. Source apportionment analysis of atmospheric particulates in an industrialised urban site in southwestern Spain. Atmos Environ 2002; 36: 3113�25. ",,,,,,,,,,,,,,,,,,,,
+180," Querol X, Alastuey A, Viana MM, et al. Speciation and origin of PM10 and PM2.5 in Spain. J Aerosol Sci 2004; 35: 1151�72. ",,,,,,,,,,,,,,,,,,,,
+181," Rinaldi M, Emblico L, Decesari S, Fuzzi S, Facchini MC, Librando V. Chemical characterization and source apportionment of size-segregated aerosol collected at an urban site in Sicily. Water Air Soil Pollut 2007; 185: 311�21. ",,,,,,,,,,,,,,,,,,,,
+182," Salvador P, Art��ano B, Querol X, Alastuey A, Costoya M. Characterisation of local and external contributions of atmospheric particulate matter at a background coastal site. Atmos Environ 2007; 41: 1�17. ",,,,,,,,,,,,,,,,,,,,
+183," Salvador P, Art��ano B, Alonso DG, Querol X, Alastuey A. Identification and characterisation of sources of PM10 in Madrid (Spain) by statistical methods. Atmos Environ 2004; 38: 435�47. ",,,,,,,,,,,,,,,,,,,,
+184," S�nchez de la Campa AM, de la Rosa J, Querol X, Alastuey A, Mantilla E. Geochemistry and origin of PM10 in the Huelva region, Southwestern Spain. Environ Res 2007; 103: 305�16. ",,,,,,,,,,,,,,,,,,,,
+185," S�nchez de la Campa AM, de la Rosa JD, Gonz�lez-Castanedo Y, et al. High concentrations of heavy metals in PM from ceramic factories of Southern Spain. Atmospheric Res 2010; 96: 633�44. ",,,,,,,,,,,,,,,,,,,,
+186," Santacatalina M, Reche C, Minguill�n MC, et al. Impact of fugitive emissions in ambient PM levels and composition. A case study in Southeast Spain. Sci Total Environ 2010; 408: 4999�5009. ",,,,,,,,,,,,,,,,,,,,
+187," Stortini AM, Freda A, Cesari D, et al. An evaluation of the PM2.5 trace elemental composition in the Venice Lagoon area and an analysis of the possible sources. Atmos Environ 2009; 43: 6296�304. ",,,,,,,,,,,,,,,,,,,,
+188," Taiwo AM, Beddows DCS, Calzolai G, et al. Receptor modelling of airborne particulate matter in the vicinity of a major steelworks site. Sci Total Environ 2014; 490: 488�500. ",,,,,,,,,,,,,,,,,,,,
+189," Vallius M, Janssen NAH, Heinrich J, et al. Sources and elemental composition of ambient PM2.5 in three European cities. Sci Total Environ 2005; 337: 147�62. ",,,,,,,,,,,,,,,,,,,,
+190," Marko Vallius TL. Source apportionment of urban ambient PM2.5 in two successive measurement campaigns in Helsinki, Finland. Atmos Environ 2003; : 615�23. ",,,,,,,,,,,,,,,,,,,,
+191," Viana M, Salvador P, Art��ano B, et al. Assessing the performance of methods to detect and quantify African dust in airborne particulates. Environ Sci Technol 2010; 44: 8814�20. ",,,,,,,,,,,,,,,,,,,,
+192," Viana M, Amato F, Alastuey A, et al. Chemical tracers of particulate emissions from commercial shipping. Environ Sci Technol 2009; 43: 7472�7. ",,,,,,,,,,,,,,,,,,,,
+193," Viana M, Pandolfi M, Minguill�n MC, et al. Inter-comparison of receptor models for PM source apportionment: Case study in an industrial area. Atmos Environ 2008; 42: 3820�32. ",,,,,,,,,,,,,,,,,,,,
+194," Viana M, Querol X, G�tschi T, et al. Source apportionment of ambient PM2.5 at five spanish centres of the european community respiratory health survey (ECRHS II). Atmos Environ 2007; 41: 1395�406. ",,,,,,,,,,,,,,,,,,,,
+195," Wahlin P. Partikelprojektet 2005-2007. Danmarks Milj�unders�gelser, Aarhus Universitet. 31s. � Faglig rapport fra DMU nr. 688. http://www.dmu.dk/Pub/FR688.pdf. 2008. ",,,,,,,,,,,,,,,,,,,,
+196, W�hlin P. COPREM�A multivariate receptor model with a physical approach. Atmos Environ 2003; 37: 4861�7. ,,,,,,,,,,,,,,,,,,,,
+197," W�hlin P, Berkowicz R, Palmgren F. Characterisation of traffic-generated particulate matter in Copenhagen. Atmos Environ 2006; 40: 2151�9. ",,,,,,,,,,,,,,,,,,,,
+198," Waked A, Favez O, Alleman LY, et al. Source apportionment of PM10 in a north-western Europe regional urban background site (Lens, France) using positive matrix factorization and including primary biogenic emissions.  ",,,,,,,,,,,,,,,,,,,,
+,   Atmospheric Chem Phys 2014; 14: 3325�46.,,,,,,,,,,,,,,,,,,,,
+199," Yin J, Harrison RM, Chen Q, Rutter A, Schauer JJ. Source apportionment of fine particles at urban background and rural sites in the UK atmosphere. Atmos Environ 2010; 44: 841�51. ",,,,,,,,,,,,,,,,,,,,
+200," Yli-Tuomi T, Hopke PK, Paatero P, et al. Atmospheric aerosol over Finnish Arctic: Source analysis by the multilinear engine and the potential source contribution function. Atmos Environ 2003; 37: 4381�92. ",,,,,,,,,,,,,,,,,,,,
+201," Yli-Tuomi T, Lanki T, Hoek G, Brunekreef B, Pekkanen J. Determination of the sources of indoor PM2.5 Amsterdam and Helsinki. Environ Sci Technol 2008; 42: 4440�6. ",,,,,,,,,,,,,,,,,,,,
+202," Yue W, St�lzel M, Cyrys J, et al. Source apportionment of ambient fine particle size distribution using positive matrix factorization in Erfurt, Germany. Sci Total Environ 2008; 398: 133�44. ",,,,,,,,,,,,,,,,,,,,
+203," Zabalza J, Ogulei D, Hopke PK, et al. Concentration and sources of PM10 and its constituents in Alsasua, Spain. Water Air Soil Pollut 2006; 174: 385�404. ",,,,,,,,,,,,,,,,,,,,
+204, Source Apportionment of Airborne Particles in the Ile-de-France Region. Final report by AIRPARIF and Laboratoire des Sciences du Climat et de l�Environnement (LSCE). 2012. ,,,,,,,,,,,,,,,,,,,,
+205," Belis C, Bo L, Amato F, et al. European Guide on Air Pollution Source Apportionment with Receptor Models. European Commission, Joint Research Centre, Institute for Environment and Sustainability, JRC-Reference Reports, Luxembourg, 2014. ",,,,,,,,,,,,,,,,,,,,
+206," Belis C, Karagulian F, Bo L, Hopke P. Critical review and meta-analysis of ambient particulate matter source apportionment using receptor models in Europe. Atmos Environ 2013; 69: 94�108. ",,,,,,,,,,,,,,,,,,,,
+207," Beuck H, Quass U, Klemm O, Kuhlbusch TAJ. Assessment of sea salt and mineral dust contributions to PM10 in NW Germany using tracer models and positive matrix factorization. Atmos Environ 2011; 45: 5813�21. ",,,,,,,,,,,,,,,,,,,,
+208," Aldabe J, Elustondo D, Santamar�a C, et al. Chemical characterisation and source apportionment of PM2.5 and PM10 at rural, urban and traffic sites in Navarra (North of Spain). Atmospheric Res 2011; 102: 191�205. ",,,,,,,,,,,,,,,,,,,,
+209," Juda-Rezler K, Reizer M, Oudinet JP. Determination and analysis of PM10 source apportionment during episodes of air pollution in Central Eastern European urban areas: The case of wintertime 2006. Atmos Environ 2011; 45: 6557�66. ",,,,,,,,,,,,,,,,,,,,
+210," Richard A, Gianini MFD, Mohr C, et al. Source apportionment of size and time resolved trace elements and organic  aerosols from an urban courtyard site in Switzerland. Atmos Chem Phys 2011; 11: 8945�63. ",,,,,,,,,,,,,,,,,,,,
+211," Rodr�guez S, Alastuey A, Alonso-P�rez S, et al. Transport of desert dust mixed with North African industrial pollutants in the subtropical Saharan Air Layer. Atmos Chem Phys 2011; 11: 6663�85. ",,,,,,,,,,,,,,,,,,,,
+212, F. Lucarelli SN. Is PIXE still a useful technique for the analysis of atmospheric aerosols? The LABEC experience. X?Ray Spectrom 2011; 40: 162�7. ,,,,,,,,,,,,,,,,,,,,
+213," Yubero E, Carratal� A, Crespo J, et al. PM?? source apportionment in the surroundings of the San Vicente del Raspeig cement plant complex in southeastern Spain. Environ Sci Pollut Res Int 2011; 18: 64�74. ",,,,,,,,,,,,,,,,,,,,
+214," Perrone MG, Larsen BR, Ferrero L, et al. Sources of high PM2.5 concentrations in Milan, Northern Italy: Molecular marker data and CMB modelling. Sci Total Environ 2012; 414: 343�55. ",,,,,,,,,,,,,,,,,,,,
+215, Mika Vestenius SL. Background concentrations and source apportionment of polycyclic aromatic hydrocarbons in south-eastern Finland. Atmos Environ 2011. DOI:10.1016/j.atmosenv.2011.03.050. ,,,,,,,,,,,,,,,,,,,,
+216," Samara C, Kouimtzis T, Katsoulos GA. Characterization of airborne particulate matter in thessaloniki, Greece. Toxicol Environ Chem 1994; 44: 147�60. ",,,,,,,,,,,,,,,,,,,,
+217," Van Borm WA, Adams FC. Source apportionment of air particulate matter in Antwerp, Belgium. J Aerosol Sci 1987; 18: 593�6. ",,,,,,,,,,,,,,,,,,,,
+218," Harrison RM, Smith DJT, Pio CA, Castro LM. Comparative receptor modelling study of airborne particulate pollutants in Birmingham (United Kingdom), Coimbra (Portugal) and Lahore (Pakistan). Atmos Environ 1997; 31: 3309�21. ",,,,,,,,,,,,,,,,,,,,
+219, Erik Swietlicki SP. Urban air pollution source apportionment using a combination of aerosol and gas monitoring techniques. Atmos Environ 1996; 2795�809. ,,,,,,,,,,,,,,,,,,,,
+220," Motallebi, N., 1999. Wintertime PM2.5 and PM10 Source Apportionment at Sacramento, California. J. Air Waste Manag. Assoc. 49, 25�34. doi:10.1080/10473289.1999.10463881. ",,,,,,,,,,,,,,,,,,,,
+221," Baumann, K., Jayanty, R.K.M., Flanagan, J.B., 2008. Fine Particulate Matter Source Apportionment for the Chemical Speciation Trends Network Site at Birmingham, Alabama, Using Positive Matrix Factorization.  ",,,,,,,,,,,,,,,,,,,,
+,"   J. Air Waste Manag. Assoc. 58, 27�44. doi:10.3155/1047-3289.58.1.27.",,,,,,,,,,,,,,,,,,,,
+222," Hasheminassab, S., Daher, N., Ostro, B.D., Sioutas, C., 2014. Long-term source apportionment of ambient fine particulate matter (PM2.5) in the Los Angeles Basin: a focus on emissions reduction from vehicular sources. doi:10.1016/j.envpol.2014.06.012. ",,,,,,,,,,,,,,,,,,,,
+,"    Environ. Pollut. Barking Essex 1987 193, 54�64.  ",,,,,,,,,,,,,,,,,,,,
+223," Hasheminassab, S., Daher, N., Saffari, A., Wang, D., Ostro, B.D., Sioutas, C., 2014. Spatial and temporal variability of sources of ambient fine particular matter (PM2.5) in California. Atmospheric Chem. Phys. Discuss. 14, 20045�20081.  ",,,,,,,,,,,,,,,,,,,,
+224," Kim, E., Hopke, P.K., 2008. Source characterization of ambient fine particles at multiple sites in the Seattle area. Atmos. Environ. 42, 6047�6056. doi:10.1016/j.atmosenv.2008.03.032/. ",,,,,,,,,,,,,,,,,,,,
+225," Kim, E., Turkiewicz, K., Zulawnick, S.A., Magliano, K.L., 2010. Sources of fine particles in the South Coast area, California. Atmos. Environ. 44, 3095�3100. doi:10.1016/j.atmosenv.2010.05.037. ",,,,,,,,,,,,,,,,,,,,
+226," Lee, J.H., Hopke, P.K., 2006. Apportioning sources of PM2.5 in St. Louis, MO using speciation trends network data. Atmos. Environ., Particulate Matter Supersites Program and Related Studies 40, Suppl. 2, 360�377. doi:10.1016/j.atmosenv.2005.11.074. ",,,,,,,,,,,,,,,,,,,,
+227," Minguill�n, M.C., Arhami, M., Schauer, J.J., Sioutas, C., 2008. Seasonal and spatial variations of sources of fine and quasi-ultrafine particulate matter in neighborhoods near the Los Angeles�Long Beach harbor. Atmos. Environ. 42, 7317�7328.  ",,,,,,,,,,,,,,,,,,,,
+228," Kim, Eugene, and Philip K. Hopke. ""Source characterization of ambient fine particles in the Los Angeles basin."" Journal of Environmental Engineering and Science 6.4 (2007): 343-353 ",,,,,,,,,,,,,,,,,,,,
+229," Zhao, W., Hopke, P.K., 2006. Source Investigation for Ambient PM 2.5 in Indianapolis, IN. Aerosol Sci. Technol. 40, 898�909. doi:10.1080/02786820500380297. ",,,,,,,,,,,,,,,,,,,,
+230," Zhou, L., Hopke, P.K., Zhao, W., 2009. Source apportionment of airborne particulate matter for the Speciation Trends Network site in Cleveland, OH. J. Air Waste Manag. Assoc. 1995 59, 321�331. ",,,,,,,,,,,,,,,,,,,,
