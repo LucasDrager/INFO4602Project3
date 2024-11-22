@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Scrollytelling with Flask and Altair</title>
+    <!-- Include Vega & Vega-Lite -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <!-- Include Scrollama -->
+    <script src="https://unpkg.com/scrollama"></script>
+    <!-- Link to external CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/scroll.css') }}">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <h1>Interactive Scrollytelling with Altair and Flask</h1>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+        <!-- Scrolling Text Section -->
+        <div class="scrolly">
+            <div class="step" data-step="1">
+                <h2>Quadratic Growth</h2>
+                <p>This chart represents a quadratic growth where y = x².</p>
+            </div>
+            <div class="step" data-step="2">
+                <h2>Exponential Growth</h2>
+                <p>This chart shows exponential growth where y = 2ˣ.</p>
+            </div>
+        </div>
+
+        <!-- Graphic Section -->
+        <div class="graphic">
+            <div id="chart"></div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        &copy; 2023 Your Company. All rights reserved.
+    </footer>
+
+    <!-- JavaScript Variables for Charts -->
+    <script>
+        var chart1Spec = {{ chart1_json|safe }};
+        var chart2Spec = {{ chart2_json|safe }};
+    </script>
+    <!-- Include external JavaScript -->
+    <script src="{{ url_for('static', filename='js/scrollytelling.js') }}"></script>
+</body>
+</html>
