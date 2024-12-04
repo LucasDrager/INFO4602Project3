@@ -2,60 +2,74 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flask Altair Dashboard</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <title>Toxic Chemical Releases and Health</title>
+    <!-- Include Vega & Vega-Lite -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <!-- Include Scrollama -->
+    <script src="https://unpkg.com/scrollama"></script>
+    <!-- Fonts and Styles -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/scroll.css') }}">
 </head>
 <body>
-    <div class="wrapper">
-        <header>
-            <h1>Data Visualization Dashboard</h1>
-            <nav>
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/about">About</a></li>
-                    <li><a href="/contact">Contact</a></li>
-                </ul>
-            </nav>
-        </header>
+    <!-- Header -->
+    <header>
+        <h1>Toxic Chemical Releases and Health in the EU</h1>
+        <p>Explore the impact of toxic pollutants on health through interactive visuals.</p>
+    </header>
 
+    <!-- First Scrollytelling Section -->
+    <main>
         <div class="container">
-            <!-- First Chart -->
-            <div class="chart-container">
-                <div class="chart-title">Chart 1: Bar Chart Example</div>
-                <div id="bar-chart" class="chart"></div>
+            <div class="scrolly">
+                <div class="step" data-step="1">
+                    <h2>PM10 Concentration</h2>
+                    <p>Particulate matter (PM10) impacts respiratory health. This chart shows its levels over time.</p>
+                </div>
+                <div class="step" data-step="2">
+                    <h2>PM2.5 Concentration</h2>
+                    <p>Fine particulate matter (PM2.5) penetrates deep into the lungs, causing significant health issues.</p>
+                </div>
+                <div class="step" data-step="3">
+                    <h2>NO₂ Levels</h2>
+                    <p>Nitrogen dioxide is a harmful gas contributing to respiratory problems and urban air pollution.</p>
+                </div>
             </div>
-
-            <!-- Second Chart -->
-            <div class="chart-container">
-                <div class="chart-title">Chart 2: Line Chart Example</div>
-                <div id="line-chart" class="chart"></div>
-            </div>
-
-            <!-- Third Chart -->
-            <div class="chart-container">
-                <div class="chart-title">Chart 3: Scatter Plot Example</div>
-                <div id="scatter-plot" class="chart"></div>
+            <div class="graphic">
+                <div id="chart"></div>
             </div>
         </div>
-    </div>
 
+        <!-- New Section 1 -->
+        <section class="additional-section">
+            <h2>Ozone Levels</h2>
+            <p>Ozone pollution is associated with various respiratory problems and environmental effects.</p>
+            <div id="chart4"></div>
+        </section>
+
+        <!-- New Section 2 -->
+        <section class="additional-section">
+            <h2>SO₂ Concentrations</h2>
+            <p>Sulfur dioxide is a major contributor to acid rain and respiratory irritation.</p>
+            <div id="chart5"></div>
+        </section>
+
+        <!-- New Section 3 -->
+        <section class="additional-section">
+            <h2>CO Emissions</h2>
+            <p>Placeholder for other content.</p>
+            <div id="chart6"></div>
+        </section>
+    </main>
+
+    <!-- Footer -->
     <footer>
-        &copy; 2024 Data Dashboard
+        <p>&copy; 2024 EU Health Studies Group. All rights reserved.</p>
     </footer>
 
-    <script type="text/javascript">
-        // Embed the first chart (bar chart)
-        vegaEmbed('#bar-chart', {{ bar_chart|safe }}).catch(console.error);
-
-        // Embed the second chart (line chart)
-        vegaEmbed('#line-chart', {{ line_chart|safe }}).catch(console.error);
-
-        // Embed the third chart (scatter plot)
-        vegaEmbed('#scatter-plot', {{ scatter_plot|safe }}).catch(console.error);
-    </script>
+    <!-- Include Scroll.js -->
+    <script src="{{ url_for('static', filename='js/scroll.js') }}"></script>
 </body>
 </html>
