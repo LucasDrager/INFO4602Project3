@@ -25,9 +25,9 @@ function handleStepEnter(response) {
 
     var step = response.element.dataset.step;
     if (step === "1") {
-        renderChart("/static/charts/chart1.json", "#chart");
-    } else if (step === "2") {
         renderChart("/static/charts/chart2.json", "#chart");
+    } else if (step === "2") {
+        renderChart("/static/charts/chart1.json", "#chart");
     } else if (step === "3") {
         renderChart("/static/charts/chart3.json", "#chart");
     }
