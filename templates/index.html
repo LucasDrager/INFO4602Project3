@@ -59,7 +59,7 @@
         <!-- New Section 3 -->
         <section class="additional-section">
             <h2>CO Emissions</h2>
-            <p>We aren't working with CO2 but this is place holder for nates stuff</p>
+            <p>Placeholder for other content.</p>
             <div id="chart6"></div>
         </section>
     </main>
@@ -68,15 +68,6 @@
     <footer>
         <p>&copy; 2024 EU Health Studies Group. All rights reserved.</p>
     </footer>
-
-    <!-- JavaScript Variables for Charts -->
-    <script>
-        var chart1Spec = {{ charts[2]|safe }};
-        var chart2Spec = {{ charts[1]|safe }};
-        var chart3Spec = {{ charts[0]|safe }};
-        var chart4Spec = {{ charts[3]|safe }};
-        var chart5Spec = {{ charts[4]|safe }};
-    </script>    
 
     <!-- Include Scroll.js -->
     <script src="{{ url_for('static', filename='js/scroll.js') }}"></script>
